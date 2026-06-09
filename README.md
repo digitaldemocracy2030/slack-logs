@@ -9,8 +9,7 @@ dd2030 の Slack public channel ログを GitHub に蓄積するリポジトリ�
 | 保全層 (`raw/`) | 2025-01 〜 2026-04 の16ヶ月分が backfill 済み。毎月1日 09:11 JST cron で更新 |
 | ミラー層 (`mirror/`) | 6時間ごと (cron `7 */6 * * *`) に上書き更新。最新状態は [`mirror/sync.json`](mirror/sync.json) を参照 |
 | 対象チャンネル | dd2030 Slack workspace の **public channel** すべて（autoJoin 有効）。`vars.SKIP_CHANNELS` で除外可 |
-| Slack bot token | nishio が `nishio/oss_weekly_reporter` で使っている bot token を流用（フェーズ1） |
-| 移管フェーズ | dd2030 org 自前 token への切り替えは **未着手**（→ [将来の保守者向け](#将来の保守者向け) を参照）|
+| Slack bot token | `nishio/oss_weekly_reporter` と共有の bot token（dd2030 workspace に install 済みの internal customer-built app） |
 
 ---
 
@@ -204,9 +203,9 @@ mirror が将来「分単位の差分取得」「watermark / dedup の本格運�
 |---|---|---|
 | 1. bootstrap | リポ作成 + workflow 整備 + 過去16ヶ月分 backfill | **完了** (2026-06-09) |
 | 2. mirror layer 追加 | rolling snapshot pipeline 追加 | **完了** (2026-06-09) |
-| 3. 脱-nishio token | dd2030 org の Slack app に切り替え | 未着手 |
-| 4. ライセンス確定 | データ CC BY 4.0 / コード MIT のデュアルライセンスを確定。公式サイトからのリンク貼りは未 | **データ・コードのライセンス確定済み (2026-06-10)**。公式サイトからのリンク貼りは未着手 |
-| 5. 過去ログ移送 | `nishio/oss_weekly_reporter` data ブランチ 67週分 (~117MB) を CC-BY 再公開 | 未着手 |
+| 3. ライセンス確定 | データ CC BY 4.0 / コード MIT のデュアルライセンスを確定 | **完了** (2026-06-10) |
+| 4. 公式サイトからのリンク貼り | dd2030.org から本リポへのリンク | 未着手 |
+| 5. 過去ログ移送 | `nishio/oss_weekly_reporter` data ブランチ 67週分 (~117MB) を CC BY 4.0 で再公開 | 未着手 |
 | 6. Discord 移行後の扱い | Slack 卒業後、両 workflow を停止 / Discord 用 collector に置き換え | 検討中（dd2030 全体の Discord 移行決定待ち） |
 
 関連 Issue:
