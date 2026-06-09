@@ -1,0 +1,295 @@
+{
+  "synced_at": "2026-06-09T14:44:54.980887+00:00",
+  "window_days": 14,
+  "window_oldest": "2026-05-26T14:44:54.980887+00:00",
+  "window_latest": "2026-06-09T14:44:54.980887+00:00",
+  "channel_count": 57,
+  "message_count": 556,
+  "channels": [
+    {
+      "id": "C08FF5PGHC6",
+      "name": "0_はじめに読んでね",
+      "messages": 0
+    },
+    {
+      "id": "C08FL58LK8V",
+      "name": "0_全体お知らせ",
+      "messages": 6
+    },
+    {
+      "id": "C08TPNKJTU0",
+      "name": "1_0525meetup参加者ch",
+      "messages": 0
+    },
+    {
+      "id": "C0B33FR3R8D",
+      "name": "1_outline_ドキュメント管理",
+      "messages": 0
+    },
+    {
+      "id": "C090HUWBBNG",
+      "name": "1_こんな人募集",
+      "messages": 0
+    },
+    {
+      "id": "C08LZN5LP43",
+      "name": "1_デジタル民主主義ニュース共有",
+      "messages": 0
+    },
+    {
+      "id": "C08LJ9T5MLY",
+      "name": "1_事例紹介_全体",
+      "messages": 0
+    },
+    {
+      "id": "C08MKDH2TS4",
+      "name": "1_初心者向けよろず相談部屋",
+      "messages": 0
+    },
+    {
+      "id": "C08QLTSPYKY",
+      "name": "1_新規チャンネル通知",
+      "messages": 0
+    },
+    {
+      "id": "C08HKET1YG3",
+      "name": "1_自己紹介",
+      "messages": 1
+    },
+    {
+      "id": "C0A7CT4DY94",
+      "name": "2_1-10-workshop",
+      "messages": 0
+    },
+    {
+      "id": "C08SY0ATEAE",
+      "name": "2_5月ミートアップ運営",
+      "messages": 0
+    },
+    {
+      "id": "C09J7A6HKRA",
+      "name": "2_broad-listening-book",
+      "messages": 2
+    },
+    {
+      "id": "C08NWTURKCP",
+      "name": "2_collab_ミライ構想カレッジin小布施-いどばた",
+      "messages": 0
+    },
+    {
+      "id": "C09TDEKC5QT",
+      "name": "2_いどばたp1_opt2_パブコメミラー",
+      "messages": 0
+    },
+    {
+      "id": "C09T4CVQA07",
+      "name": "2_いどばたボット",
+      "messages": 0
+    },
+    {
+      "id": "C0AEFK4RNG5",
+      "name": "2_コアループ_communication",
+      "messages": 14
+    },
+    {
+      "id": "C0A7WQBNYNP",
+      "name": "2_コアループ_policy",
+      "messages": 1
+    },
+    {
+      "id": "C0A7WQ6HM2P",
+      "name": "2_コアループ_process",
+      "messages": 32
+    },
+    {
+      "id": "C0ADNKDNW80",
+      "name": "2_コアループ_reference_product",
+      "messages": 0
+    },
+    {
+      "id": "C0A7ZNHB421",
+      "name": "2_コアループ_tech",
+      "messages": 7
+    },
+    {
+      "id": "C0A3ZG16TEY",
+      "name": "2_コアループ_オンライン広告詐欺対策_市民熟議会議",
+      "messages": 1
+    },
+    {
+      "id": "C08N2NU6D0S",
+      "name": "2_コミュニティ運営",
+      "messages": 6
+    },
+    {
+      "id": "C08N2C1RUTE",
+      "name": "2_学生のためのデジタル民主主義",
+      "messages": 0
+    },
+    {
+      "id": "C08K4CUB12T",
+      "name": "2_広報_pr",
+      "messages": 1
+    },
+    {
+      "id": "C08JMAGJDMY",
+      "name": "2_新しいプロジェクトの種",
+      "messages": 0
+    },
+    {
+      "id": "C08NHB3JADC",
+      "name": "2_自治体_meetup_運営",
+      "messages": 0
+    },
+    {
+      "id": "C09N1LZG878",
+      "name": "2_開発_cartographer",
+      "messages": 0
+    },
+    {
+      "id": "C08FL5L6GSH",
+      "name": "2_開発_polimoney",
+      "messages": 5
+    },
+    {
+      "id": "C08TGSC167N",
+      "name": "2_開発_polimoney_ocr",
+      "messages": 0
+    },
+    {
+      "id": "C08SCPMMPL4",
+      "name": "2_開発_slackbot",
+      "messages": 0
+    },
+    {
+      "id": "C08FF5MM59C",
+      "name": "2_開発_いどばた",
+      "messages": 0
+    },
+    {
+      "id": "C099589UDE1",
+      "name": "2_開発_ツナゲル_仮",
+      "messages": 0
+    },
+    {
+      "id": "C08F7JZPD63",
+      "name": "2_開発_広聴ai",
+      "messages": 117
+    },
+    {
+      "id": "C08PX74S5T4",
+      "name": "2_開発_広聴ai_アルゴリズム開発",
+      "messages": 131
+    },
+    {
+      "id": "C08LZN6GYD9",
+      "name": "3_デザイン_general",
+      "messages": 0
+    },
+    {
+      "id": "C0A18R188RZ",
+      "name": "3_デジタル資産_権限管理",
+      "messages": 0
+    },
+    {
+      "id": "C08TR6S8Y0Z",
+      "name": "3_ボードメンバーロール",
+      "messages": 3
+    },
+    {
+      "id": "C08T0USVB6G",
+      "name": "6_ホストユーザー相談",
+      "messages": 0
+    },
+    {
+      "id": "C08PTG6QB0V",
+      "name": "7_ai_coding知見共有部屋",
+      "messages": 0
+    },
+    {
+      "id": "C0ACH0JDQ4W",
+      "name": "7_dd_熟議に関する哲学_思想部屋",
+      "messages": 0
+    },
+    {
+      "id": "C08J2MHQFD2",
+      "name": "7_freetalk-in-english",
+      "messages": 0
+    },
+    {
+      "id": "C0A1NLVSJG4",
+      "name": "7_x_投稿ネタ",
+      "messages": 0
+    },
+    {
+      "id": "C0AQCTYBYRL",
+      "name": "7_分散アーキテクチャ",
+      "messages": 0
+    },
+    {
+      "id": "C08UYDUBMG8",
+      "name": "7_広聴ai読書会",
+      "messages": 0
+    },
+    {
+      "id": "C08P2UJK4BE",
+      "name": "7_若者の雑談チャンネル",
+      "messages": 0
+    },
+    {
+      "id": "C08RFU7HY72",
+      "name": "7_読書部屋",
+      "messages": 0
+    },
+    {
+      "id": "C08FL58M3D3",
+      "name": "7_雑談",
+      "messages": 22
+    },
+    {
+      "id": "C08LC91PR9V",
+      "name": "8_devin_channel",
+      "messages": 0
+    },
+    {
+      "id": "C08PRQVQWSE",
+      "name": "8_devinと人間たちの部屋",
+      "messages": 7
+    },
+    {
+      "id": "C08QLT17362",
+      "name": "8_人数推移",
+      "messages": 5
+    },
+    {
+      "id": "C08JQERPAJ2",
+      "name": "8_開発_いどばた_github",
+      "messages": 0
+    },
+    {
+      "id": "C08VDRM8012",
+      "name": "8_開発_広聴ai_figma",
+      "messages": 0
+    },
+    {
+      "id": "C08JQEUR79U",
+      "name": "8_開発_広聴ai_github",
+      "messages": 117
+    },
+    {
+      "id": "C0A6JBJ6EVD",
+      "name": "addressing_the_theoretical_gap",
+      "messages": 0
+    },
+    {
+      "id": "C0B4L1JB8RM",
+      "name": "dd_prance_event2026",
+      "messages": 78
+    },
+    {
+      "id": "C09AMKP77HD",
+      "name": "デジ民に人文知を活かしたいゼミ",
+      "messages": 0
+    }
+  ]
+}
