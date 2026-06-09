@@ -1,0 +1,112 @@
+name: slack-backup
+
+on:
+  schedule:
+    - cron: '11 0 1 * *'   # 毎月1日 09:11 JST（=00:11 UTC）
+  workflow_dispatch:
+    inputs:
+      year:
+        description: '取得対象の年（例: 2026）。空ならデフォルト（実行月の2ヶ月前）'
+        required: false
+      month:
+        description: '取得対象の月（例: 4）。空ならデフォルト'
+        required: false
+
+concurrency:
+  group: slack-backup
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run slack-logger-cli-action
+        id: slack
+        uses: kuboon/slack-logger-cli-action@main
+        with:
+          slackToken: ${{ secrets.SLACK_TOKEN }}
+          timezone: 'Asia/Tokyo'
+          year: ${{ inputs.year }}
+          month: ${{ inputs.month }}
+          skipChannels: ${{ vars.SKIP_CHANNELS }}
+
+      - name: Determine target year/month
+        id: ym
+        run: |
+          if [ -n "${{ inputs.year }}" ] && [ -n "${{ inputs.month }}" ]; then
+            Y="${{ inputs.year }}"
+            M=$(printf '%02d' "${{ inputs.month }}")
+          else
+            # action のデフォルト: 実行日(Asia/Tokyo)の2ヶ月前
+            Y=$(TZ=Asia/Tokyo date -d '2 months ago' +%Y)
+            M=$(TZ=Asia/Tokyo date -d '2 months ago' +%m)
+          fi
+          echo "year=$Y"   >> $GITHUB_OUTPUT
+          echo "month=$M"  >> $GITHUB_OUTPUT
+          echo "ym=$Y-$M"  >> $GITHUB_OUTPUT
+
+      - name: Move/rename jsonl into raw/slack/<channel_id>/<YYYY>-<MM>.jsonl.gz
+        run: |
+          set -euo pipefail
+          YM='${{ steps.ym.outputs.ym }}'
+          SRC='${{ steps.slack.outputs.jsonl_dir }}'
+          if [ -z "$SRC" ] || [ ! -d "$SRC" ]; then
+            echo "::error::slack action did not produce jsonl_dir"
+            exit 1
+          fi
+          shopt -s nullglob
+          for f in "$SRC"/*.jsonl; do
+            cid=$(basename "$f" .jsonl)
+            mkdir -p "raw/slack/$cid"
+            gzip -c "$f" > "raw/slack/$cid/$YM.jsonl.gz"
+          done
+
+      - name: Snapshot users.list
+        env:
+          SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+        run: |
+          set -euo pipefail
+          YM='${{ steps.ym.outputs.ym }}'
+          mkdir -p state
+          curl -sS -H "Authorization: Bearer $SLACK_TOKEN" \
+            'https://slack.com/api/users.list?limit=1000' \
+            > "state/users-$YM.json"
+          if ! jq -e '.ok == true' "state/users-$YM.json" > /dev/null; then
+            echo "::error::users.list returned ok=false"
+            jq '.' "state/users-$YM.json" || cat "state/users-$YM.json"
+            exit 1
+          fi
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          YM='${{ steps.ym.outputs.ym }}'
+          git config user.name 'dd2030-slack-logs-bot'
+          git config user.email 'bot@dd2030.invalid'
+          git add raw/slack state
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+            exit 0
+          fi
+          git commit -m "slack backup $YM"
+          git push
+
+      - name: Open issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const ym = '${{ steps.ym.outputs.ym }}' || 'unknown';
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `slack-backup failed: ${ym}`,
+              body: `Workflow run failed.\n\n- target: \`${ym}\`\n- run: ${runUrl}\n\n手動で再実行する場合は \`workflow_dispatch\` で \`year\`/\`month\` を指定してください。`,
+              labels: ['slack-backup', 'failure'],
+            });
