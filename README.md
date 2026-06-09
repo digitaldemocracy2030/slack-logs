@@ -163,13 +163,6 @@ gh workflow run slack-mirror.yml -R digitaldemocracy2030/slack-logs -f window_da
 
 `.github/workflows/<name>.yml` の `on:` から `schedule:` ブロックを削除（or コメントアウト）して push。
 
-#### SLACK_TOKEN を差し替える（脱-nishio フェーズ2）
-
-1. dd2030 workspace で新しい Slack app を作成し、上記 scope を付与
-2. bot を public channel に invite（または初回 autoJoin に任せる）
-3. `gh secret set SLACK_TOKEN -R digitaldemocracy2030/slack-logs` で新 token に上書き
-4. 両 workflow を `workflow_dispatch` で動作確認
-
 ### Slack rate limit について
 
 dd2030 workspace 内で動く bot app は **internal customer-built** 扱いになり、2025-05-29 以降の非 Marketplace 制限（`conversations.history`/`replies` が 1分1req・15件）の対象外。Tier 3（~50req/min）が適用される。mirror script (`scripts/slack_mirror.py`) は 429 受信時に `Retry-After` ヘッダに従って待つ実装。
@@ -212,7 +205,7 @@ mirror が将来「分単位の差分取得」「watermark / dedup の本格運�
 | 1. bootstrap | リポ作成 + workflow 整備 + 過去16ヶ月分 backfill | **完了** (2026-06-09) |
 | 2. mirror layer 追加 | rolling snapshot pipeline 追加 | **完了** (2026-06-09) |
 | 3. 脱-nishio token | dd2030 org の Slack app に切り替え | 未着手 |
-| 4. CC-BY 公開化 | LICENSE 確定 + 公式サイトからのリンク貼り | 未着手（[nishio 2026-05-13 提案](https://nishio.github.io/dd2030-wiki/entities/oss-weekly-reporter#2026-05-のスコープ拡張)） |
+| 4. ライセンス確定 | データ CC BY 4.0 / コード MIT のデュアルライセンスを確定。公式サイトからのリンク貼りは未 | **データ・コードのライセンス確定済み (2026-06-10)**。公式サイトからのリンク貼りは未着手 |
 | 5. 過去ログ移送 | `nishio/oss_weekly_reporter` data ブランチ 67週分 (~117MB) を CC-BY 再公開 | 未着手 |
 | 6. Discord 移行後の扱い | Slack 卒業後、両 workflow を停止 / Discord 用 collector に置き換え | 検討中（dd2030 全体の Discord 移行決定待ち） |
 
@@ -231,4 +224,13 @@ mirror が将来「分単位の差分取得」「watermark / dedup の本格運�
 
 ## ライセンス
 
-未定。CC-BY 公開化を検討中（[nishio 2026-05-13 提案](https://nishio.github.io/dd2030-wiki/entities/oss-weekly-reporter#2026-05-のスコープ拡張)）。確定までは「dd2030 内部での参照のみを想定」。
+このリポジトリは **デュアルライセンス**:
+
+| 対象 | ライセンス | ファイル |
+|---|---|---|
+| **データ** (`raw/`, `mirror/`, `state/`) — Slack ログ本体 | [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) | [LICENSE-DATA](LICENSE-DATA) |
+| **コード** (`scripts/`, `.github/workflows/`, ドキュメント) | [MIT License](https://opensource.org/licenses/MIT) | [LICENSE](LICENSE) |
+
+データを再利用する際は CC BY 4.0 に従って **「dd2030 / digitaldemocracy2030 slack-logs」へのクレジット表記**をお願いします。スクリプトの改変・再配布は MIT のもとで自由に。
+
+決定経緯: [nishio 2026-05-13 提案](https://nishio.github.io/dd2030-wiki/entities/oss-weekly-reporter#2026-05-のスコープ拡張) → 2026-06-10 確定。
