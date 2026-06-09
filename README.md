@@ -8,13 +8,27 @@ dd2030 の Slack public channel ログを GitHub に蓄積するためのリポ�
 - Discord 移行（2026-05 以降検討中）に伴う過去ログの受け皿
 - 公式アーカイブとして CC-BY 公開化（nishio 2026-05-13 提案、要決定）
 
-## 設計
+## 設計 — 二層構成
+
+このリポは「保全（canonical）」と「現状ミラー（rolling snapshot）」の二層を持つ。AI からの参照シチュエーション2タイプ（[dd2030-wiki: AI から Slack ログを参照するパターン](https://nishio.github.io/dd2030-wiki/topics/ai-slack-access-patterns)）に対応する。
+
+### `raw/` — 月次 canonical（保全用）
 
 - **collector**: [`kuboon/slack-logger-cli-action`](https://github.com/kuboon/slack-logger-cli-action) を fork なしで `uses:` 導入
 - **保存粒度**: `raw/slack/<channel_id>/<YYYY>-<MM>.jsonl.gz` を月単位で commit
 - **state**: `state/users-<YYYY>-<MM>.json`（退会者解決のための users.list snapshot）
 - **頻度**: 毎月1日 09:11 JST。`workflow_dispatch` で `year`/`month` 指定の過去分埋め戻し可
 - **2ヶ月遅延**: スレッド返信が親メッセージの月に紐づく Slack API 仕様への対処として、実行月の2ヶ月前を取得
+- workflow: [.github/workflows/slack-backup.yml](.github/workflows/slack-backup.yml)
+
+### `mirror/` — rolling snapshot（現状クエリ用）
+
+- **collector**: Python + `slack_sdk`（`scripts/slack_mirror.py`）
+- **保存粒度**: `mirror/slack/<channel_id>.jsonl.gz`（**毎回上書き、履歴なし**）。直近 14 日分のメッセージ＋スレッド
+- **メタ**: `mirror/sync.json`（最終同期時刻、window、channel/message 数）、`mirror/users.json`
+- **頻度**: 6時間ごと（cron `7 */6 * * *`）。`workflow_dispatch` で `window_days` 上書き可
+- 履歴は `raw/` 側の責務。`mirror/` は AI が「直近の状態」を知るための薄いビュー
+- workflow: [.github/workflows/slack-mirror.yml](.github/workflows/slack-mirror.yml)
 
 詳細な設計判断・推奨構成・代替案は [dd2030-wiki: アーカイブパイプライン設計](https://nishio.github.io/dd2030-wiki/topics/archive-pipeline-design) を参照。
 
