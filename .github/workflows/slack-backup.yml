@@ -94,7 +94,17 @@ jobs:
             exit 0
           fi
           git commit -m "slack backup $YM"
-          git push
+          # Retry push with rebase to handle concurrent runs racing on main
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "push attempt $attempt rejected, pulling --rebase and retrying"
+            git pull --rebase origin main
+            sleep $((attempt * 3))
+          done
+          echo "::error::push failed after 5 attempts"
+          exit 1
 
       - name: Open issue on failure
         if: failure()
