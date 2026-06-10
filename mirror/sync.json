@@ -1,8 +1,8 @@
 {
-  "synced_at": "2026-06-09T20:15:14.518743+00:00",
+  "synced_at": "2026-06-10T04:22:21.304175+00:00",
   "window_days": 14,
-  "window_oldest": "2026-05-26T20:15:14.518743+00:00",
-  "window_latest": "2026-06-09T20:15:14.518743+00:00",
+  "window_oldest": "2026-05-27T04:22:21.304175+00:00",
+  "window_latest": "2026-06-10T04:22:21.304175+00:00",
   "channel_count": 57,
   "message_count": 558,
   "channels": [
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 6
+      "messages": 5
     },
     {
       "id": "C08TPNKJTU0",
@@ -99,7 +99,7 @@
     {
       "id": "C0A7WQ6HM2P",
       "name": "2_コアループ_process",
-      "messages": 32
+      "messages": 33
     },
     {
       "id": "C0ADNKDNW80",
@@ -194,7 +194,7 @@
     {
       "id": "C08TR6S8Y0Z",
       "name": "3_ボードメンバーロール",
-      "messages": 3
+      "messages": 0
     },
     {
       "id": "C08T0USVB6G",
@@ -244,7 +244,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 23
+      "messages": 26
     },
     {
       "id": "C08LC91PR9V",
