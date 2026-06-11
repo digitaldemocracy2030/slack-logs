@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-11T16:15:09.323107+00:00",
+  "synced_at": "2026-06-11T20:30:55.556020+00:00",
   "window_days": 14,
-  "window_oldest": "2026-05-28T16:15:09.323107+00:00",
-  "window_latest": "2026-06-11T16:15:09.323107+00:00",
+  "window_oldest": "2026-05-28T20:30:55.556020+00:00",
+  "window_latest": "2026-06-11T20:30:55.556020+00:00",
   "channel_count": 57,
-  "message_count": 567,
+  "message_count": 570,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 18
+      "messages": 43
     },
     {
       "id": "C08NWTURKCP",
@@ -114,7 +114,7 @@
     {
       "id": "C0A3ZG16TEY",
       "name": "2_コアループ_オンライン広告詐欺対策_市民熟議会議",
-      "messages": 1
+      "messages": 2
     },
     {
       "id": "C08N2NU6D0S",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 116
+      "messages": 108
     },
     {
       "id": "C08PX74S5T4",
@@ -274,7 +274,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 111
+      "messages": 96
     },
     {
       "id": "C0A6JBJ6EVD",
