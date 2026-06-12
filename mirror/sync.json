@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-12T04:47:13.523816+00:00",
+  "synced_at": "2026-06-12T10:25:04.352157+00:00",
   "window_days": 14,
-  "window_oldest": "2026-05-29T04:47:13.523816+00:00",
-  "window_latest": "2026-06-12T04:47:13.523816+00:00",
+  "window_oldest": "2026-05-29T10:25:04.352157+00:00",
+  "window_latest": "2026-06-12T10:25:04.352157+00:00",
   "channel_count": 57,
-  "message_count": 567,
+  "message_count": 509,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -84,7 +84,7 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 2
+      "messages": 4
     },
     {
       "id": "C0AEFK4RNG5",
@@ -99,7 +99,7 @@
     {
       "id": "C0A7WQ6HM2P",
       "name": "2_コアループ_process",
-      "messages": 19
+      "messages": 15
     },
     {
       "id": "C0ADNKDNW80",
@@ -109,7 +109,7 @@
     {
       "id": "C0A7ZNHB421",
       "name": "2_コアループ_tech",
-      "messages": 7
+      "messages": 8
     },
     {
       "id": "C0A3ZG16TEY",
@@ -119,7 +119,7 @@
     {
       "id": "C08N2NU6D0S",
       "name": "2_コミュニティ運営",
-      "messages": 6
+      "messages": 5
     },
     {
       "id": "C08N2C1RUTE",
@@ -179,7 +179,7 @@
     {
       "id": "C08PX74S5T4",
       "name": "2_開発_広聴ai_アルゴリズム開発",
-      "messages": 131
+      "messages": 97
     },
     {
       "id": "C08LZN6GYD9",
@@ -274,7 +274,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 96
+      "messages": 90
     },
     {
       "id": "C0A6JBJ6EVD",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 85
+      "messages": 69
     },
     {
       "id": "C09AMKP77HD",
