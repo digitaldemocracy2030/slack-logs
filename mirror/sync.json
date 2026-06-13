@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-13T09:27:05.121792+00:00",
+  "synced_at": "2026-06-13T14:16:04.199020+00:00",
   "window_days": 14,
-  "window_oldest": "2026-05-30T09:27:05.121792+00:00",
-  "window_latest": "2026-06-13T09:27:05.121792+00:00",
+  "window_oldest": "2026-05-30T14:16:04.199020+00:00",
+  "window_latest": "2026-06-13T14:16:04.199020+00:00",
   "channel_count": 57,
-  "message_count": 461,
+  "message_count": 404,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 5
+      "messages": 6
     },
     {
       "id": "C08TPNKJTU0",
@@ -119,7 +119,7 @@
     {
       "id": "C08N2NU6D0S",
       "name": "2_コミュニティ運営",
-      "messages": 5
+      "messages": 4
     },
     {
       "id": "C08N2C1RUTE",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 9
+      "messages": 7
     },
     {
       "id": "C08TGSC167N",
@@ -174,12 +174,12 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 104
+      "messages": 101
     },
     {
       "id": "C08PX74S5T4",
       "name": "2_開発_広聴ai_アルゴリズム開発",
-      "messages": 52
+      "messages": 6
     },
     {
       "id": "C08LZN6GYD9",
@@ -244,7 +244,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 21
+      "messages": 16
     },
     {
       "id": "C08LC91PR9V",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 71
+      "messages": 70
     },
     {
       "id": "C09AMKP77HD",
