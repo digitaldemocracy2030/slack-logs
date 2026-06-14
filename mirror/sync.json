@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-14T09:48:53.923944+00:00",
+  "synced_at": "2026-06-14T14:19:38.831849+00:00",
   "window_days": 14,
-  "window_oldest": "2026-05-31T09:48:53.923944+00:00",
-  "window_latest": "2026-06-14T09:48:53.923944+00:00",
+  "window_oldest": "2026-05-31T14:19:38.831849+00:00",
+  "window_latest": "2026-06-14T14:19:38.831849+00:00",
   "channel_count": 57,
-  "message_count": 382,
+  "message_count": 373,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C099589UDE1",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 80
+      "messages": 71
     },
     {
       "id": "C08PX74S5T4",
@@ -244,7 +244,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 18
+      "messages": 17
     },
     {
       "id": "C08LC91PR9V",
