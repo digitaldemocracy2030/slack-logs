@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-15T05:10:17.401275+00:00",
+  "synced_at": "2026-06-15T12:33:21.454870+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-01T05:10:17.401275+00:00",
-  "window_latest": "2026-06-15T05:10:17.401275+00:00",
-  "channel_count": 57,
-  "message_count": 363,
+  "window_oldest": "2026-06-01T12:33:21.454870+00:00",
+  "window_latest": "2026-06-15T12:33:21.454870+00:00",
+  "channel_count": 58,
+  "message_count": 324,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 5
+      "messages": 6
     },
     {
       "id": "C08LZN5LP43",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 43
+      "messages": 48
     },
     {
       "id": "C08NWTURKCP",
@@ -89,7 +89,7 @@
     {
       "id": "C0AEFK4RNG5",
       "name": "2_コアループ_communication",
-      "messages": 6
+      "messages": 7
     },
     {
       "id": "C0A7WQBNYNP",
@@ -99,7 +99,7 @@
     {
       "id": "C0A7WQ6HM2P",
       "name": "2_コアループ_process",
-      "messages": 15
+      "messages": 16
     },
     {
       "id": "C0ADNKDNW80",
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 2
+      "messages": 3
     },
     {
       "id": "C099589UDE1",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 61
+      "messages": 44
     },
     {
       "id": "C08PX74S5T4",
@@ -274,7 +274,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 88
+      "messages": 83
     },
     {
       "id": "C0A6JBJ6EVD",
@@ -284,7 +284,12 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 76
+      "messages": 40
+    },
+    {
+      "id": "C0BACQUGQ5R",
+      "name": "delib-20260621-japan",
+      "messages": 10
     },
     {
       "id": "C09AMKP77HD",
