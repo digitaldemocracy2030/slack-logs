@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-14T19:47:06.241880+00:00",
+  "synced_at": "2026-06-15T05:10:17.401275+00:00",
   "window_days": 14,
-  "window_oldest": "2026-05-31T19:47:06.241880+00:00",
-  "window_latest": "2026-06-14T19:47:06.241880+00:00",
+  "window_oldest": "2026-06-01T05:10:17.401275+00:00",
+  "window_latest": "2026-06-15T05:10:17.401275+00:00",
   "channel_count": 57,
-  "message_count": 375,
+  "message_count": 363,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 6
+      "messages": 5
     },
     {
       "id": "C08TPNKJTU0",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 4
+      "messages": 5
     },
     {
       "id": "C08LZN5LP43",
@@ -89,7 +89,7 @@
     {
       "id": "C0AEFK4RNG5",
       "name": "2_コアループ_communication",
-      "messages": 3
+      "messages": 6
     },
     {
       "id": "C0A7WQBNYNP",
@@ -114,7 +114,7 @@
     {
       "id": "C0A3ZG16TEY",
       "name": "2_コアループ_オンライン広告詐欺対策_市民熟議会議",
-      "messages": 2
+      "messages": 1
     },
     {
       "id": "C08N2NU6D0S",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 71
+      "messages": 61
     },
     {
       "id": "C08PX74S5T4",
@@ -244,7 +244,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 17
+      "messages": 19
     },
     {
       "id": "C08LC91PR9V",
@@ -274,7 +274,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 94
+      "messages": 88
     },
     {
       "id": "C0A6JBJ6EVD",
