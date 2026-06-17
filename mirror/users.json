@@ -22408,7 +22408,7 @@
       "id": "U08M2Q2M6SV",
       "name": "devin",
       "is_bot": true,
-      "updated": 1755904626,
+      "updated": 1781716141,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
@@ -22427,17 +22427,17 @@
       "profile": {
         "real_name": "Devin",
         "display_name": "",
-        "avatar_hash": "0ebd273214da",
+        "avatar_hash": "4f58063a45ae",
         "real_name_normalized": "Devin",
         "display_name_normalized": "",
-        "image_24": "https://avatars.slack-edge.com/2025-08-22/9401276284900_0ebd273214dae9a0311d_24.png",
-        "image_32": "https://avatars.slack-edge.com/2025-08-22/9401276284900_0ebd273214dae9a0311d_32.png",
-        "image_48": "https://avatars.slack-edge.com/2025-08-22/9401276284900_0ebd273214dae9a0311d_48.png",
-        "image_72": "https://avatars.slack-edge.com/2025-08-22/9401276284900_0ebd273214dae9a0311d_72.png",
-        "image_192": "https://avatars.slack-edge.com/2025-08-22/9401276284900_0ebd273214dae9a0311d_192.png",
-        "image_512": "https://avatars.slack-edge.com/2025-08-22/9401276284900_0ebd273214dae9a0311d_512.png",
-        "image_1024": "https://avatars.slack-edge.com/2025-08-22/9401276284900_0ebd273214dae9a0311d_1024.png",
-        "image_original": "https://avatars.slack-edge.com/2025-08-22/9401276284900_0ebd273214dae9a0311d_original.png",
+        "image_24": "https://avatars.slack-edge.com/2026-06-17/11380839016517_4f58063a45aedbd9a857_24.png",
+        "image_32": "https://avatars.slack-edge.com/2026-06-17/11380839016517_4f58063a45aedbd9a857_32.png",
+        "image_48": "https://avatars.slack-edge.com/2026-06-17/11380839016517_4f58063a45aedbd9a857_48.png",
+        "image_72": "https://avatars.slack-edge.com/2026-06-17/11380839016517_4f58063a45aedbd9a857_72.png",
+        "image_192": "https://avatars.slack-edge.com/2026-06-17/11380839016517_4f58063a45aedbd9a857_192.png",
+        "image_512": "https://avatars.slack-edge.com/2026-06-17/11380839016517_4f58063a45aedbd9a857_512.png",
+        "image_1024": "https://avatars.slack-edge.com/2026-06-17/11380839016517_4f58063a45aedbd9a857_1024.png",
+        "image_original": "https://avatars.slack-edge.com/2026-06-17/11380839016517_4f58063a45aedbd9a857_original.png",
         "is_custom_image": true,
         "first_name": "Devin",
         "last_name": "",
@@ -46957,7 +46957,7 @@
       }
     }
   ],
-  "cache_ts": 1781711641,
+  "cache_ts": 1781727853,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
