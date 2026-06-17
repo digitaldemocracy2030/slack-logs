@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-16T21:12:38.403825+00:00",
+  "synced_at": "2026-06-17T04:55:28.213452+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-02T21:12:38.403825+00:00",
-  "window_latest": "2026-06-16T21:12:38.403825+00:00",
+  "window_oldest": "2026-06-03T04:55:28.213452+00:00",
+  "window_latest": "2026-06-17T04:55:28.213452+00:00",
   "channel_count": 58,
-  "message_count": 297,
+  "message_count": 291,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 10
+      "messages": 14
     },
     {
       "id": "C08LZN5LP43",
@@ -89,7 +89,7 @@
     {
       "id": "C0AEFK4RNG5",
       "name": "2_コアループ_communication",
-      "messages": 10
+      "messages": 8
     },
     {
       "id": "C0A7WQBNYNP",
@@ -99,7 +99,7 @@
     {
       "id": "C0A7WQ6HM2P",
       "name": "2_コアループ_process",
-      "messages": 16
+      "messages": 7
     },
     {
       "id": "C0ADNKDNW80",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 28
+      "messages": 25
     },
     {
       "id": "C08PX74S5T4",
@@ -259,7 +259,7 @@
     {
       "id": "C08QLT17362",
       "name": "8_人数推移",
-      "messages": 4
+      "messages": 5
     },
     {
       "id": "C08JQERPAJ2",
@@ -289,7 +289,7 @@
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 12
+      "messages": 15
     },
     {
       "id": "C09AMKP77HD",
