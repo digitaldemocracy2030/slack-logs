@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-17T20:24:05.519248+00:00",
+  "synced_at": "2026-06-18T04:46:30.005283+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-03T20:24:05.519248+00:00",
-  "window_latest": "2026-06-17T20:24:05.519248+00:00",
+  "window_oldest": "2026-06-04T04:46:30.005283+00:00",
+  "window_latest": "2026-06-18T04:46:30.005283+00:00",
   "channel_count": 58,
-  "message_count": 308,
+  "message_count": 329,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 14
+      "messages": 15
     },
     {
       "id": "C08LZN5LP43",
@@ -244,7 +244,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 19
+      "messages": 20
     },
     {
       "id": "C08LC91PR9V",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 79
+      "messages": 98
     },
     {
       "id": "C0BACQUGQ5R",
