@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-18T04:46:30.005283+00:00",
+  "synced_at": "2026-06-18T10:41:22.675117+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-04T04:46:30.005283+00:00",
-  "window_latest": "2026-06-18T04:46:30.005283+00:00",
+  "window_oldest": "2026-06-04T10:41:22.675117+00:00",
+  "window_latest": "2026-06-18T10:41:22.675117+00:00",
   "channel_count": 58,
-  "message_count": 329,
+  "message_count": 342,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 15
+      "messages": 16
     },
     {
       "id": "C08LZN5LP43",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 8
+      "messages": 9
     },
     {
       "id": "C08TGSC167N",
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 3
+      "messages": 4
     },
     {
       "id": "C099589UDE1",
@@ -284,12 +284,12 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 98
+      "messages": 106
     },
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 15
+      "messages": 17
     },
     {
       "id": "C09AMKP77HD",
