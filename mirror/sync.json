@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-19T05:06:19.888233+00:00",
+  "synced_at": "2026-06-19T10:49:41.312509+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-05T05:06:19.888233+00:00",
-  "window_latest": "2026-06-19T05:06:19.888233+00:00",
+  "window_oldest": "2026-06-05T10:49:41.312509+00:00",
+  "window_latest": "2026-06-19T10:49:41.312509+00:00",
   "channel_count": 58,
-  "message_count": 353,
+  "message_count": 317,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 23
+      "messages": 26
     },
     {
       "id": "C08LZN5LP43",
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 7
+      "messages": 9
     },
     {
       "id": "C099589UDE1",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 19
+      "messages": 6
     },
     {
       "id": "C08PX74S5T4",
@@ -254,7 +254,7 @@
     {
       "id": "C08PRQVQWSE",
       "name": "8_devinと人間たちの部屋",
-      "messages": 17
+      "messages": 10
     },
     {
       "id": "C08QLT17362",
@@ -274,7 +274,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 42
+      "messages": 19
     },
     {
       "id": "C0A6JBJ6EVD",
@@ -284,12 +284,12 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 116
+      "messages": 117
     },
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 17
+      "messages": 18
     },
     {
       "id": "C09AMKP77HD",
