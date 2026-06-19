@@ -26373,16 +26373,16 @@
       "id": "U08NJM4JRDY",
       "name": "rintaro.chujo",
       "is_bot": false,
-      "updated": 1781303802,
+      "updated": 1781826855,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "4d5e26",
       "is_email_confirmed": true,
       "real_name": "Rintaro Chujo",
-      "tz": "Asia/Kuala_Lumpur",
-      "tz_label": "Singapore Standard Time",
-      "tz_offset": 28800,
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
+      "tz_offset": 32400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46957,7 +46957,7 @@
       }
     }
   ],
-  "cache_ts": 1781814875,
+  "cache_ts": 1781845604,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
