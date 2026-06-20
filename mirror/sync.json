@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-20T04:18:52.915433+00:00",
+  "synced_at": "2026-06-20T09:29:49.274975+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-06T04:18:52.915433+00:00",
-  "window_latest": "2026-06-20T04:18:52.915433+00:00",
+  "window_oldest": "2026-06-06T09:29:49.274975+00:00",
+  "window_latest": "2026-06-20T09:29:49.274975+00:00",
   "channel_count": 58,
-  "message_count": 318,
+  "message_count": 326,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -284,12 +284,12 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 125
+      "messages": 126
     },
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 18
+      "messages": 25
     },
     {
       "id": "C09AMKP77HD",
