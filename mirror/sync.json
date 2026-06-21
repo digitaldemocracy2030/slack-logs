@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-21T09:59:55.687587+00:00",
+  "synced_at": "2026-06-21T14:25:47.127663+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-07T09:59:55.687587+00:00",
-  "window_latest": "2026-06-21T09:59:55.687587+00:00",
+  "window_oldest": "2026-06-07T14:25:47.127663+00:00",
+  "window_latest": "2026-06-21T14:25:47.127663+00:00",
   "channel_count": 58,
-  "message_count": 622,
+  "message_count": 634,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 49
+      "messages": 61
     },
     {
       "id": "C08NWTURKCP",
