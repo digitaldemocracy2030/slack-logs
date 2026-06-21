@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-21T05:02:43.453390+00:00",
+  "synced_at": "2026-06-21T09:59:55.687587+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-07T05:02:43.453390+00:00",
-  "window_latest": "2026-06-21T05:02:43.453390+00:00",
+  "window_oldest": "2026-06-07T09:59:55.687587+00:00",
+  "window_latest": "2026-06-21T09:59:55.687587+00:00",
   "channel_count": 58,
-  "message_count": 461,
+  "message_count": 622,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 42
+      "messages": 49
     },
     {
       "id": "C08LZN5LP43",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 48
+      "messages": 49
     },
     {
       "id": "C08NWTURKCP",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 3
+      "messages": 1
     },
     {
       "id": "C08PX74S5T4",
@@ -244,7 +244,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 14
+      "messages": 12
     },
     {
       "id": "C08LC91PR9V",
@@ -289,7 +289,7 @@
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 148
+      "messages": 305
     },
     {
       "id": "C09AMKP77HD",

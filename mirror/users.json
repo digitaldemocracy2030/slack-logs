@@ -1784,7 +1784,7 @@
       "id": "U08HG40H3GW",
       "name": "heat1390",
       "is_bot": false,
-      "updated": 1782014830,
+      "updated": 1782027297,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
@@ -1826,9 +1826,8 @@
         "status_emoji": "",
         "status_emoji_display_info": [],
         "status_expiration": 0,
-        "huddle_state": "in_a_huddle",
-        "huddle_state_expiration_ts": 1782016150,
-        "huddle_state_call_id": "R0BBY0V0EUV"
+        "huddle_state": "default_unset",
+        "huddle_state_expiration_ts": 0
       }
     },
     {
@@ -3065,7 +3064,7 @@
       "id": "U08HKLUGE67",
       "name": "mami.s.dasein",
       "is_bot": false,
-      "updated": 1782017273,
+      "updated": 1782027296,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
@@ -3107,9 +3106,8 @@
         "status_emoji": "",
         "status_emoji_display_info": [],
         "status_expiration": 0,
-        "huddle_state": "in_a_huddle",
-        "huddle_state_expiration_ts": 1782018593,
-        "huddle_state_call_id": "R0BBY0V0EUV"
+        "huddle_state": "default_unset",
+        "huddle_state_expiration_ts": 0
       }
     },
     {
@@ -7706,16 +7704,16 @@
       "id": "U08HZGJN875",
       "name": "hiro",
       "is_bot": false,
-      "updated": 1781794392,
+      "updated": 1782020738,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "84b22f",
       "is_email_confirmed": true,
       "real_name": "Hiro Takaku",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "Asia/Chongqing",
+      "tz_label": "China Standard Time",
+      "tz_offset": 28800,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46963,7 +46961,7 @@
       }
     }
   ],
-  "cache_ts": 1782018174,
+  "cache_ts": 1782036012,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
