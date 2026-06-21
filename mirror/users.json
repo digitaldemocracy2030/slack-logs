@@ -1784,7 +1784,7 @@
       "id": "U08HG40H3GW",
       "name": "heat1390",
       "is_bot": false,
-      "updated": 1741909896,
+      "updated": 1782014830,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
@@ -1825,7 +1825,10 @@
         "status_text_canonical": "",
         "status_emoji": "",
         "status_emoji_display_info": [],
-        "status_expiration": 0
+        "status_expiration": 0,
+        "huddle_state": "in_a_huddle",
+        "huddle_state_expiration_ts": 1782016150,
+        "huddle_state_call_id": "R0BBY0V0EUV"
       }
     },
     {
@@ -3062,7 +3065,7 @@
       "id": "U08HKLUGE67",
       "name": "mami.s.dasein",
       "is_bot": false,
-      "updated": 1741849075,
+      "updated": 1782017273,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
@@ -3103,7 +3106,10 @@
         "status_text_canonical": "",
         "status_emoji": "",
         "status_emoji_display_info": [],
-        "status_expiration": 0
+        "status_expiration": 0,
+        "huddle_state": "in_a_huddle",
+        "huddle_state_expiration_ts": 1782018593,
+        "huddle_state_call_id": "R0BBY0V0EUV"
       }
     },
     {
@@ -46957,7 +46963,7 @@
       }
     }
   ],
-  "cache_ts": 1781984889,
+  "cache_ts": 1782018174,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
