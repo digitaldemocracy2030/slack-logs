@@ -44104,16 +44104,16 @@
       "id": "U08S5HJLW4Q",
       "name": "yushi.ymd",
       "is_bot": false,
-      "updated": 1780322094,
+      "updated": 1782073890,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "aba727",
       "is_email_confirmed": true,
       "real_name": "Yushi Yamada",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "Europe/London",
+      "tz_label": "British Summer Time",
+      "tz_offset": 3600,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46961,7 +46961,7 @@
       }
     }
   ],
-  "cache_ts": 1782071679,
+  "cache_ts": 1782105097,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }

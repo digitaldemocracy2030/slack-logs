@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-21T19:54:00.116948+00:00",
+  "synced_at": "2026-06-22T05:11:06.084149+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-07T19:54:00.116948+00:00",
-  "window_latest": "2026-06-21T19:54:00.116948+00:00",
+  "window_oldest": "2026-06-08T05:11:06.084149+00:00",
+  "window_latest": "2026-06-22T05:11:06.084149+00:00",
   "channel_count": 58,
-  "message_count": 633,
+  "message_count": 634,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 49
+      "messages": 50
     },
     {
       "id": "C08LZN5LP43",
