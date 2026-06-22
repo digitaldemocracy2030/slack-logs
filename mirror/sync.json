@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-22T05:11:06.084149+00:00",
+  "synced_at": "2026-06-22T12:18:24.353829+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-08T05:11:06.084149+00:00",
-  "window_latest": "2026-06-22T05:11:06.084149+00:00",
+  "window_oldest": "2026-06-08T12:18:24.353829+00:00",
+  "window_latest": "2026-06-22T12:18:24.353829+00:00",
   "channel_count": 58,
-  "message_count": 634,
+  "message_count": 639,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 50
+      "messages": 54
     },
     {
       "id": "C08LZN5LP43",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 61
+      "messages": 67
     },
     {
       "id": "C08NWTURKCP",
@@ -99,7 +99,7 @@
     {
       "id": "C0A7WQ6HM2P",
       "name": "2_コアループ_process",
-      "messages": 7
+      "messages": 0
     },
     {
       "id": "C0ADNKDNW80",
@@ -114,7 +114,7 @@
     {
       "id": "C0A3ZG16TEY",
       "name": "2_コアループ_オンライン広告詐欺対策_市民熟議会議",
-      "messages": 1
+      "messages": 3
     },
     {
       "id": "C08N2NU6D0S",
