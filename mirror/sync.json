@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-22T12:18:24.353829+00:00",
+  "synced_at": "2026-06-22T20:58:09.760767+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-08T12:18:24.353829+00:00",
-  "window_latest": "2026-06-22T12:18:24.353829+00:00",
+  "window_oldest": "2026-06-08T20:58:09.760767+00:00",
+  "window_latest": "2026-06-22T20:58:09.760767+00:00",
   "channel_count": 58,
-  "message_count": 639,
+  "message_count": 643,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 54
+      "messages": 55
     },
     {
       "id": "C08LZN5LP43",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 67
+      "messages": 69
     },
     {
       "id": "C08NWTURKCP",
@@ -264,7 +264,7 @@
     {
       "id": "C08JQERPAJ2",
       "name": "8_開発_いどばた_github",
-      "messages": 2
+      "messages": 3
     },
     {
       "id": "C08VDRM8012",
