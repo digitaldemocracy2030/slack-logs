@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-22T20:58:09.760767+00:00",
+  "synced_at": "2026-06-23T04:08:22.262055+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-08T20:58:09.760767+00:00",
-  "window_latest": "2026-06-22T20:58:09.760767+00:00",
+  "window_oldest": "2026-06-09T04:08:22.262055+00:00",
+  "window_latest": "2026-06-23T04:08:22.262055+00:00",
   "channel_count": 58,
-  "message_count": 643,
+  "message_count": 656,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -84,7 +84,7 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 5
+      "messages": 6
     },
     {
       "id": "C0AEFK4RNG5",
@@ -114,7 +114,7 @@
     {
       "id": "C0A3ZG16TEY",
       "name": "2_コアループ_オンライン広告詐欺対策_市民熟議会議",
-      "messages": 3
+      "messages": 6
     },
     {
       "id": "C08N2NU6D0S",
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 10
+      "messages": 12
     },
     {
       "id": "C099589UDE1",
@@ -244,7 +244,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 12
+      "messages": 14
     },
     {
       "id": "C08LC91PR9V",
@@ -259,12 +259,12 @@
     {
       "id": "C08QLT17362",
       "name": "8_人数推移",
-      "messages": 5
+      "messages": 4
     },
     {
       "id": "C08JQERPAJ2",
       "name": "8_開発_いどばた_github",
-      "messages": 3
+      "messages": 9
     },
     {
       "id": "C08VDRM8012",
