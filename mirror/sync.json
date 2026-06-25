@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-25T14:46:10.400852+00:00",
+  "synced_at": "2026-06-25T20:11:47.274431+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-11T14:46:10.400852+00:00",
-  "window_latest": "2026-06-25T14:46:10.400852+00:00",
+  "window_oldest": "2026-06-11T20:11:47.274431+00:00",
+  "window_latest": "2026-06-25T20:11:47.274431+00:00",
   "channel_count": 58,
-  "message_count": 580,
+  "message_count": 555,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 52
+      "messages": 27
     },
     {
       "id": "C08NWTURKCP",
@@ -114,7 +114,7 @@
     {
       "id": "C0A3ZG16TEY",
       "name": "2_コアループ_オンライン広告詐欺対策_市民熟議会議",
-      "messages": 6
+      "messages": 5
     },
     {
       "id": "C08N2NU6D0S",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 13
+      "messages": 14
     },
     {
       "id": "C08TGSC167N",
