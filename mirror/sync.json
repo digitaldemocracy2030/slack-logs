@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-27T04:04:39.312583+00:00",
+  "synced_at": "2026-06-27T08:45:42.889668+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-13T04:04:39.312583+00:00",
-  "window_latest": "2026-06-27T04:04:39.312583+00:00",
+  "window_oldest": "2026-06-13T08:45:42.889668+00:00",
+  "window_latest": "2026-06-27T08:45:42.889668+00:00",
   "channel_count": 58,
-  "message_count": 541,
+  "message_count": 526,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 15
+      "messages": 12
     },
     {
       "id": "C08TGSC167N",
@@ -254,7 +254,7 @@
     {
       "id": "C08PRQVQWSE",
       "name": "8_devinと人間たちの部屋",
-      "messages": 10
+      "messages": 0
     },
     {
       "id": "C08QLT17362",
@@ -274,7 +274,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 5
+      "messages": 3
     },
     {
       "id": "C0A6JBJ6EVD",
