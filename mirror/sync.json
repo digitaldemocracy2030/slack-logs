@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-29T11:15:45.298217+00:00",
+  "synced_at": "2026-06-29T16:00:03.703329+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-15T11:15:45.298217+00:00",
-  "window_latest": "2026-06-29T11:15:45.298217+00:00",
+  "window_oldest": "2026-06-15T16:00:03.703329+00:00",
+  "window_latest": "2026-06-29T16:00:03.703329+00:00",
   "channel_count": 58,
-  "message_count": 494,
+  "message_count": 496,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 4
+      "messages": 3
     },
     {
       "id": "C08TPNKJTU0",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 27
+      "messages": 25
     },
     {
       "id": "C08NWTURKCP",
@@ -284,12 +284,12 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 105
+      "messages": 111
     },
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 295
+      "messages": 294
     },
     {
       "id": "C09AMKP77HD",
