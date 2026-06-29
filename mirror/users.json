@@ -7704,16 +7704,16 @@
       "id": "U08HZGJN875",
       "name": "hiro",
       "is_bot": false,
-      "updated": 1782043513,
+      "updated": 1782689094,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "84b22f",
       "is_email_confirmed": true,
       "real_name": "Hiro Takaku",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "Asia/Chongqing",
+      "tz_label": "China Standard Time",
+      "tz_offset": 28800,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46961,7 +46961,7 @@
       }
     }
   ],
-  "cache_ts": 1782675637,
+  "cache_ts": 1782708389,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
