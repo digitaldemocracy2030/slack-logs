@@ -150,6 +150,21 @@ gh workflow run slack-backup.yml -R digitaldemocracy2030/slack-logs -f year=2025
 
 **注意**: 連続 dispatch すると GitHub Actions concurrency 仕様で**中間 pending が cancel** される。複数月を一度に処理するときは [scripts/backfill-sequential.sh](scripts/backfill-sequential.sh) のような外部 wait ループで sequential 化する（過去の埋め戻しで実証済み、コミット [39a299e](../../commit/39a299e) も参照）。
 
+#### oss_weekly_reporter の週次rawから復元する
+
+初期 backfill で月次 canonical が `channel_name` だけの metadata-only ファイルになった場合は、`nishio/oss_weekly_reporter` data ブランチに残る週次raw Slack JSONから復元できる範囲を再構成する。
+
+```bash
+gh repo clone nishio/oss_weekly_reporter /tmp/oss_weekly_reporter -- \
+  --depth 1 --branch data --single-branch
+python3 scripts/import_oss_weekly_reporter.py \
+  --archive-root /tmp/oss_weekly_reporter/data \
+  --repo-root . \
+  --max-month 2026-04
+```
+
+この復元データは `oss_weekly_reporter` が収集済みの public channel raw JSONを月次に再集約するもの。Slack APIからの再取得ではないため、収録範囲は旧アーカイブに残っている週・チャンネルに依存する。
+
 #### mirror を即時更新する
 
 ```bash
