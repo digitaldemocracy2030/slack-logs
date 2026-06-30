@@ -50,7 +50,7 @@ jobs:
           echo "month=$M"  >> $GITHUB_OUTPUT
           echo "ym=$Y-$M"  >> $GITHUB_OUTPUT
 
-      - name: Move/rename jsonl into raw/slack/<channel_id>/<YYYY>-<MM>.jsonl.gz
+      - name: Import jsonl into raw/slack monthly canonical files
         run: |
           set -euo pipefail
           YM='${{ steps.ym.outputs.ym }}'
@@ -59,33 +59,13 @@ jobs:
             echo "::error::slack action did not produce jsonl_dir"
             exit 1
           fi
-          shopt -s nullglob
-          for f in "$SRC"/*.jsonl; do
-            cid=$(basename "$f" .jsonl)
-            mkdir -p "raw/slack/$cid"
-            gzip -c "$f" > "raw/slack/$cid/$YM.jsonl.gz"
-          done
+          python3 scripts/import_slack_logger_jsonl.py \
+            --jsonl-dir "$SRC" \
+            --repo-root . \
+            --target-month "$YM"
 
-      - name: Validate raw monthly backup is not metadata-only
-        run: |
-          set -euo pipefail
-          YM='${{ steps.ym.outputs.ym }}'
-          shopt -s nullglob
-          files=(raw/slack/*/"$YM.jsonl.gz")
-          if [ "${#files[@]}" -eq 0 ]; then
-            echo "::error::no raw monthly files produced for $YM"
-            exit 1
-          fi
-          message_count=0
-          for f in "${files[@]}"; do
-            n=$(gzip -cd "$f" | jq -r 'select(.ts? != null) | .ts' | wc -l)
-            message_count=$((message_count + n))
-          done
-          echo "monthly message_count=$message_count"
-          if [ "$message_count" -eq 0 ]; then
-            echo "::error::raw monthly backup for $YM contains no message records; refusing to commit metadata-only files"
-            exit 1
-          fi
+      - name: Validate raw monthly backup
+        run: python3 scripts/validate_slack_raw.py --repo-root . --month '${{ steps.ym.outputs.ym }}' --require-messages
 
       - name: Snapshot users.list
         env:
