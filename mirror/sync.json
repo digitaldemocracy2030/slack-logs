@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-30T04:12:50.909454+00:00",
+  "synced_at": "2026-06-30T09:54:03.075042+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-16T04:12:50.909454+00:00",
-  "window_latest": "2026-06-30T04:12:50.909454+00:00",
+  "window_oldest": "2026-06-16T09:54:03.075042+00:00",
+  "window_latest": "2026-06-30T09:54:03.075042+00:00",
   "channel_count": 58,
-  "message_count": 506,
+  "message_count": 541,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 26
+      "messages": 34
     },
     {
       "id": "C08NWTURKCP",
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 2
+      "messages": 4
     },
     {
       "id": "C099589UDE1",
@@ -254,7 +254,7 @@
     {
       "id": "C08PRQVQWSE",
       "name": "8_devinと人間たちの部屋",
-      "messages": 2
+      "messages": 14
     },
     {
       "id": "C08QLT17362",
@@ -264,7 +264,7 @@
     {
       "id": "C08JQERPAJ2",
       "name": "8_開発_いどばた_github",
-      "messages": 9
+      "messages": 10
     },
     {
       "id": "C08VDRM8012",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 115
+      "messages": 127
     },
     {
       "id": "C0BACQUGQ5R",
