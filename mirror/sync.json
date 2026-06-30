@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-30T09:54:03.075042+00:00",
+  "synced_at": "2026-06-30T14:33:55.927144+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-16T09:54:03.075042+00:00",
-  "window_latest": "2026-06-30T09:54:03.075042+00:00",
+  "window_oldest": "2026-06-16T14:33:55.927144+00:00",
+  "window_latest": "2026-06-30T14:33:55.927144+00:00",
   "channel_count": 58,
-  "message_count": 541,
+  "message_count": 546,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -254,7 +254,7 @@
     {
       "id": "C08PRQVQWSE",
       "name": "8_devinと人間たちの部屋",
-      "messages": 14
+      "messages": 19
     },
     {
       "id": "C08QLT17362",
@@ -264,7 +264,7 @@
     {
       "id": "C08JQERPAJ2",
       "name": "8_開発_いどばた_github",
-      "messages": 10
+      "messages": 16
     },
     {
       "id": "C08VDRM8012",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 127
+      "messages": 121
     },
     {
       "id": "C0BACQUGQ5R",
