@@ -50,7 +50,7 @@ jobs:
           echo "month=$M"  >> $GITHUB_OUTPUT
           echo "ym=$Y-$M"  >> $GITHUB_OUTPUT
 
-      - name: Move/rename jsonl into raw/slack/<channel_id>/<YYYY>-<MM>.jsonl.gz
+      - name: Import jsonl into raw/slack monthly canonical files
         run: |
           set -euo pipefail
           YM='${{ steps.ym.outputs.ym }}'
@@ -59,12 +59,13 @@ jobs:
             echo "::error::slack action did not produce jsonl_dir"
             exit 1
           fi
-          shopt -s nullglob
-          for f in "$SRC"/*.jsonl; do
-            cid=$(basename "$f" .jsonl)
-            mkdir -p "raw/slack/$cid"
-            gzip -c "$f" > "raw/slack/$cid/$YM.jsonl.gz"
-          done
+          python3 scripts/import_slack_logger_jsonl.py \
+            --jsonl-dir "$SRC" \
+            --repo-root . \
+            --target-month "$YM"
+
+      - name: Validate raw monthly backup
+        run: python3 scripts/validate_slack_raw.py --repo-root . --month '${{ steps.ym.outputs.ym }}' --require-messages
 
       - name: Snapshot users.list
         env:
