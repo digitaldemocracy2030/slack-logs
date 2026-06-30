@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-29T20:08:24.692222+00:00",
+  "synced_at": "2026-06-30T04:12:50.909454+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-15T20:08:24.692222+00:00",
-  "window_latest": "2026-06-29T20:08:24.692222+00:00",
+  "window_oldest": "2026-06-16T04:12:50.909454+00:00",
+  "window_latest": "2026-06-30T04:12:50.909454+00:00",
   "channel_count": 58,
-  "message_count": 493,
+  "message_count": 506,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 3
+      "messages": 2
     },
     {
       "id": "C08TPNKJTU0",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 25
+      "messages": 26
     },
     {
       "id": "C08NWTURKCP",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 14
+      "messages": 17
     },
     {
       "id": "C08TGSC167N",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 1
+      "messages": 3
     },
     {
       "id": "C08PX74S5T4",
@@ -254,7 +254,7 @@
     {
       "id": "C08PRQVQWSE",
       "name": "8_devinと人間たちの部屋",
-      "messages": 0
+      "messages": 2
     },
     {
       "id": "C08QLT17362",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 109
+      "messages": 115
     },
     {
       "id": "C0BACQUGQ5R",
