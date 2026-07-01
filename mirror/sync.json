@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-06-30T20:07:06.332137+00:00",
+  "synced_at": "2026-07-01T04:41:28.741839+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-16T20:07:06.332137+00:00",
-  "window_latest": "2026-06-30T20:07:06.332137+00:00",
+  "window_oldest": "2026-06-17T04:41:28.741839+00:00",
+  "window_latest": "2026-07-01T04:41:28.741839+00:00",
   "channel_count": 58,
-  "message_count": 547,
+  "message_count": 628,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 34
+      "messages": 38
     },
     {
       "id": "C08NWTURKCP",
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 4
+      "messages": 6
     },
     {
       "id": "C099589UDE1",
@@ -254,17 +254,17 @@
     {
       "id": "C08PRQVQWSE",
       "name": "8_devinと人間たちの部屋",
-      "messages": 19
+      "messages": 34
     },
     {
       "id": "C08QLT17362",
       "name": "8_人数推移",
-      "messages": 6
+      "messages": 5
     },
     {
       "id": "C08JQERPAJ2",
       "name": "8_開発_いどばた_github",
-      "messages": 16
+      "messages": 75
     },
     {
       "id": "C08VDRM8012",
@@ -284,12 +284,12 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 122
+      "messages": 127
     },
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 293
+      "messages": 290
     },
     {
       "id": "C09AMKP77HD",
