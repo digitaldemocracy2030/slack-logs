@@ -1,8 +1,8 @@
 {
-  "synced_at": "2026-07-01T04:41:28.741839+00:00",
+  "synced_at": "2026-07-01T10:02:43.951069+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-17T04:41:28.741839+00:00",
-  "window_latest": "2026-07-01T04:41:28.741839+00:00",
+  "window_oldest": "2026-06-17T10:02:43.951069+00:00",
+  "window_latest": "2026-07-01T10:02:43.951069+00:00",
   "channel_count": 58,
   "message_count": 628,
   "channels": [
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 6
+      "messages": 8
     },
     {
       "id": "C099589UDE1",
@@ -244,7 +244,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 13
+      "messages": 14
     },
     {
       "id": "C08LC91PR9V",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 127
+      "messages": 124
     },
     {
       "id": "C0BACQUGQ5R",
