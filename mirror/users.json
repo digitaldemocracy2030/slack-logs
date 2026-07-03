@@ -6351,16 +6351,16 @@
       "id": "U08HY6J4D2N",
       "name": "takino",
       "is_bot": false,
-      "updated": 1742111723,
+      "updated": 1783047645,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "e7392d",
       "is_email_confirmed": true,
       "real_name": "Masato Takino",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "Europe/London",
+      "tz_label": "British Summer Time",
+      "tz_offset": 3600,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -17279,7 +17279,7 @@
       "id": "U08JXAEUCKB",
       "name": "tange.toshihiro",
       "is_bot": false,
-      "updated": 1742483344,
+      "updated": 1783043283,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
@@ -46961,7 +46961,7 @@
       }
     }
   ],
-  "cache_ts": 1783021352,
+  "cache_ts": 1783050920,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
