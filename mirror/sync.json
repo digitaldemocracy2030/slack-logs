@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-05T04:06:41.460792+00:00",
+  "synced_at": "2026-07-05T09:16:19.241638+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-21T04:06:41.460792+00:00",
-  "window_latest": "2026-07-05T04:06:41.460792+00:00",
+  "window_oldest": "2026-06-21T09:16:19.241638+00:00",
+  "window_latest": "2026-07-05T09:16:19.241638+00:00",
   "channel_count": 58,
-  "message_count": 533,
+  "message_count": 303,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 38
+      "messages": 37
     },
     {
       "id": "C08NWTURKCP",
@@ -289,7 +289,7 @@
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 229
+      "messages": 0
     },
     {
       "id": "C09AMKP77HD",
