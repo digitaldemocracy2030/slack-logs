@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-08T08:39:20.051240+00:00",
+  "synced_at": "2026-07-08T14:30:44.450632+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-24T08:39:20.051240+00:00",
-  "window_latest": "2026-07-08T08:39:20.051240+00:00",
+  "window_oldest": "2026-06-24T14:30:44.450632+00:00",
+  "window_latest": "2026-07-08T14:30:44.450632+00:00",
   "channel_count": 58,
-  "message_count": 300,
+  "message_count": 301,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 78
+      "messages": 79
     },
     {
       "id": "C0BACQUGQ5R",
