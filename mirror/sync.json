@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-08T14:30:44.450632+00:00",
+  "synced_at": "2026-07-08T19:44:17.453961+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-24T14:30:44.450632+00:00",
-  "window_latest": "2026-07-08T14:30:44.450632+00:00",
+  "window_oldest": "2026-06-24T19:44:17.453961+00:00",
+  "window_latest": "2026-07-08T19:44:17.453961+00:00",
   "channel_count": 58,
-  "message_count": 301,
+  "message_count": 303,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 19
+      "messages": 20
     },
     {
       "id": "C08TGSC167N",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 79
+      "messages": 80
     },
     {
       "id": "C0BACQUGQ5R",
