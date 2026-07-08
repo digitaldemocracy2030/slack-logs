@@ -25495,16 +25495,16 @@
       "id": "U08N3V4NQRE",
       "name": "kojin.oshiba",
       "is_bot": false,
-      "updated": 1774559104,
+      "updated": 1783490167,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "b14cbc",
       "is_email_confirmed": true,
       "real_name": "ルー大柴（Kojin Oshiba）",
-      "tz": "America/Los_Angeles",
-      "tz_label": "Pacific Daylight Time",
-      "tz_offset": -25200,
+      "tz": "Europe/Amsterdam",
+      "tz_label": "Central European Summer Time",
+      "tz_offset": 7200,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46961,7 +46961,7 @@
       }
     }
   ],
-  "cache_ts": 1783481386,
+  "cache_ts": 1783499997,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
