@@ -34194,16 +34194,16 @@
       "id": "U08PXKDF8DC",
       "name": "roroaiwin5",
       "is_bot": false,
-      "updated": 1745932203,
+      "updated": 1783618939,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "4bbe2e",
       "is_email_confirmed": true,
       "real_name": "Keita Tsuyuguchi",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "America/New_York",
+      "tz_label": "Eastern Daylight Time",
+      "tz_offset": -14400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46961,7 +46961,7 @@
       }
     }
   ],
-  "cache_ts": 1783610755,
+  "cache_ts": 1783626986,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
