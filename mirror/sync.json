@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-09T03:57:12.769962+00:00",
+  "synced_at": "2026-07-09T09:51:57.163968+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-25T03:57:12.769962+00:00",
-  "window_latest": "2026-07-09T03:57:12.769962+00:00",
+  "window_oldest": "2026-06-25T09:51:57.163968+00:00",
+  "window_latest": "2026-07-09T09:51:57.163968+00:00",
   "channel_count": 58,
-  "message_count": 302,
+  "message_count": 291,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 3
+      "messages": 5
     },
     {
       "id": "C08TPNKJTU0",
@@ -119,7 +119,7 @@
     {
       "id": "C08N2NU6D0S",
       "name": "2_コミュニティ運営",
-      "messages": 19
+      "messages": 21
     },
     {
       "id": "C08N2C1RUTE",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 20
+      "messages": 12
     },
     {
       "id": "C08TGSC167N",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 81
+      "messages": 74
     },
     {
       "id": "C0BACQUGQ5R",
