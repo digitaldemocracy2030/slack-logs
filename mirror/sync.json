@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-10T19:42:36.853161+00:00",
+  "synced_at": "2026-07-11T03:24:29.704785+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-26T19:42:36.853161+00:00",
-  "window_latest": "2026-07-10T19:42:36.853161+00:00",
+  "window_oldest": "2026-06-27T03:24:29.704785+00:00",
+  "window_latest": "2026-07-11T03:24:29.704785+00:00",
   "channel_count": 58,
-  "message_count": 305,
+  "message_count": 304,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -54,7 +54,7 @@
     {
       "id": "C08HKET1YG3",
       "name": "1_自己紹介",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C0A7CT4DY94",
@@ -114,7 +114,7 @@
     {
       "id": "C0A3ZG16TEY",
       "name": "2_コアループ_オンライン広告詐欺対策_市民熟議会議",
-      "messages": 1
+      "messages": 0
     },
     {
       "id": "C08N2NU6D0S",
@@ -259,7 +259,7 @@
     {
       "id": "C08QLT17362",
       "name": "8_人数推移",
-      "messages": 3
+      "messages": 2
     },
     {
       "id": "C08JQERPAJ2",
