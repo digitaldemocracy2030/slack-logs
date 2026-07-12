@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-12T03:35:56.068806+00:00",
+  "synced_at": "2026-07-12T08:26:57.696726+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-28T03:35:56.068806+00:00",
-  "window_latest": "2026-07-12T03:35:56.068806+00:00",
+  "window_oldest": "2026-06-28T08:26:57.696726+00:00",
+  "window_latest": "2026-07-12T08:26:57.696726+00:00",
   "channel_count": 58,
-  "message_count": 306,
+  "message_count": 308,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -129,7 +129,7 @@
     {
       "id": "C08K4CUB12T",
       "name": "2_広報_pr",
-      "messages": 1
+      "messages": 3
     },
     {
       "id": "C08JMAGJDMY",
