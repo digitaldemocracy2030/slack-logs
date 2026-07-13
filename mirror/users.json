@@ -44512,16 +44512,16 @@
       "id": "U08SEQLTSAH",
       "name": "4486043775",
       "is_bot": false,
-      "updated": 1783309807,
+      "updated": 1783896482,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "e06b56",
       "is_email_confirmed": true,
       "real_name": "Takuya NAKASHIMA",
-      "tz": "Asia/Taipei",
-      "tz_label": "Taiwan Standard Time",
-      "tz_offset": 28800,
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
+      "tz_offset": 32400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46961,7 +46961,7 @@
       }
     }
   ],
-  "cache_ts": 1783883706,
+  "cache_ts": 1783913920,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
