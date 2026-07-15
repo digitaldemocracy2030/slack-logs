@@ -31561,22 +31561,10 @@
       "id": "U08PM1S92DQ",
       "name": "m.miyahara2046",
       "is_bot": false,
-      "updated": 1745495841,
+      "updated": 1784079931,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
-      "deleted": false,
-      "color": "aba727",
-      "is_email_confirmed": true,
-      "real_name": "宮原史知",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
-      "is_admin": false,
-      "is_owner": false,
-      "is_primary_owner": false,
-      "is_restricted": false,
-      "is_ultra_restricted": false,
-      "who_can_share_contact_card": "EVERYONE",
+      "deleted": true,
       "profile": {
         "real_name": "宮原史知",
         "display_name": "宮原史知",
@@ -46961,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1784057794,
+  "cache_ts": 1784085218,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }

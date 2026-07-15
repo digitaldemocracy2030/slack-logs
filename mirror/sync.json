@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-14T19:36:26.600061+00:00",
+  "synced_at": "2026-07-15T03:13:14.865807+00:00",
   "window_days": 14,
-  "window_oldest": "2026-06-30T19:36:26.600061+00:00",
-  "window_latest": "2026-07-14T19:36:26.600061+00:00",
+  "window_oldest": "2026-07-01T03:13:14.865807+00:00",
+  "window_latest": "2026-07-15T03:13:14.865807+00:00",
   "channel_count": 58,
-  "message_count": 256,
+  "message_count": 226,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 19
+      "messages": 16
     },
     {
       "id": "C08NWTURKCP",
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 7
+      "messages": 4
     },
     {
       "id": "C099589UDE1",
@@ -264,7 +264,7 @@
     {
       "id": "C08JQERPAJ2",
       "name": "8_開発_いどばた_github",
-      "messages": 65
+      "messages": 43
     },
     {
       "id": "C08VDRM8012",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 106
+      "messages": 104
     },
     {
       "id": "C0BACQUGQ5R",
