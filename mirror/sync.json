@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-17T08:20:54.825290+00:00",
+  "synced_at": "2026-07-17T13:53:10.802857+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-03T08:20:54.825290+00:00",
-  "window_latest": "2026-07-17T08:20:54.825290+00:00",
+  "window_oldest": "2026-07-03T13:53:10.802857+00:00",
+  "window_latest": "2026-07-17T13:53:10.802857+00:00",
   "channel_count": 58,
-  "message_count": 277,
+  "message_count": 285,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -119,7 +119,7 @@
     {
       "id": "C08N2NU6D0S",
       "name": "2_コミュニティ運営",
-      "messages": 14
+      "messages": 13
     },
     {
       "id": "C08N2C1RUTE",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 195
+      "messages": 204
     },
     {
       "id": "C0BACQUGQ5R",
