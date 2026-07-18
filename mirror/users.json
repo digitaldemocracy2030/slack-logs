@@ -24199,16 +24199,16 @@
       "id": "U08MKPW7YSK",
       "name": "sho",
       "is_bot": false,
-      "updated": 1784182008,
+      "updated": 1784379811,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "4d5e26",
       "is_email_confirmed": true,
       "real_name": "Sho Hayashi",
-      "tz": "Asia/Bangkok",
-      "tz_label": "Indochina Time",
-      "tz_offset": 25200,
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
+      "tz_offset": 32400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1784361786,
+  "cache_ts": 1784381809,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
