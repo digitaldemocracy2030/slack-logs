@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-19T03:32:25.216814+00:00",
+  "synced_at": "2026-07-19T08:28:21.825301+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-05T03:32:25.216814+00:00",
-  "window_latest": "2026-07-19T03:32:25.216814+00:00",
+  "window_oldest": "2026-07-05T08:28:21.825301+00:00",
+  "window_latest": "2026-07-19T08:28:21.825301+00:00",
   "channel_count": 58,
-  "message_count": 290,
+  "message_count": 302,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -179,7 +179,7 @@
     {
       "id": "C08PX74S5T4",
       "name": "2_開発_広聴ai_アルゴリズム開発",
-      "messages": 4
+      "messages": 8
     },
     {
       "id": "C08LZN6GYD9",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 213
+      "messages": 221
     },
     {
       "id": "C0BACQUGQ5R",
