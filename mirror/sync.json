@@ -1,8 +1,8 @@
 {
-  "synced_at": "2026-07-25T19:17:55.446022+00:00",
+  "synced_at": "2026-07-26T03:37:16.199977+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-11T19:17:55.446022+00:00",
-  "window_latest": "2026-07-25T19:17:55.446022+00:00",
+  "window_oldest": "2026-07-12T03:37:16.199977+00:00",
+  "window_latest": "2026-07-26T03:37:16.199977+00:00",
   "channel_count": 58,
   "message_count": 403,
   "channels": [
@@ -194,7 +194,7 @@
     {
       "id": "C08TR6S8Y0Z",
       "name": "3_ボードメンバーロール",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08T0USVB6G",
@@ -259,7 +259,7 @@
     {
       "id": "C08QLT17362",
       "name": "8_人数推移",
-      "messages": 3
+      "messages": 2
     },
     {
       "id": "C08JQERPAJ2",
