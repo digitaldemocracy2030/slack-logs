@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-26T03:37:16.199977+00:00",
+  "synced_at": "2026-07-26T08:34:55.729460+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-12T03:37:16.199977+00:00",
-  "window_latest": "2026-07-26T03:37:16.199977+00:00",
+  "window_oldest": "2026-07-12T08:34:55.729460+00:00",
+  "window_latest": "2026-07-26T08:34:55.729460+00:00",
   "channel_count": 58,
-  "message_count": 403,
+  "message_count": 405,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -129,7 +129,7 @@
     {
       "id": "C08K4CUB12T",
       "name": "2_広報_pr",
-      "messages": 2
+      "messages": 0
     },
     {
       "id": "C08JMAGJDMY",
@@ -284,7 +284,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 350
+      "messages": 354
     },
     {
       "id": "C0BACQUGQ5R",
