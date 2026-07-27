@@ -730,16 +730,16 @@
       "id": "U08GJSBAX3K",
       "name": "shutaro.aoyama",
       "is_bot": false,
-      "updated": 1785023036,
+      "updated": 1785118439,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "9f69e7",
       "is_email_confirmed": true,
       "real_name": "Shutaro Aoyama (ぶるーも)",
-      "tz": "Europe/Amsterdam",
-      "tz_label": "Central European Summer Time",
-      "tz_offset": 7200,
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
+      "tz_offset": 32400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1785093692,
+  "cache_ts": 1785124035,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
