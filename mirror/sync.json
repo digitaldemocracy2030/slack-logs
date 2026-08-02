@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-01T19:19:03.907139+00:00",
+  "synced_at": "2026-08-02T03:35:06.521791+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-18T19:19:03.907139+00:00",
-  "window_latest": "2026-08-01T19:19:03.907139+00:00",
-  "channel_count": 58,
-  "message_count": 562,
+  "window_oldest": "2026-07-19T03:35:06.521791+00:00",
+  "window_latest": "2026-08-02T03:35:06.521791+00:00",
+  "channel_count": 59,
+  "message_count": 677,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 4
+      "messages": 5
     },
     {
       "id": "C08TPNKJTU0",
@@ -114,7 +114,7 @@
     {
       "id": "C0A3ZG16TEY",
       "name": "2_コアループ_オンライン広告詐欺対策_市民熟議会議",
-      "messages": 1
+      "messages": 0
     },
     {
       "id": "C08N2NU6D0S",
@@ -222,6 +222,11 @@
       "messages": 0
     },
     {
+      "id": "C0BME5MTWD8",
+      "name": "7_デジタル民主主義サミット",
+      "messages": 87
+    },
+    {
       "id": "C0AQCTYBYRL",
       "name": "7_分散アーキテクチャ",
       "messages": 0
@@ -244,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 1
+      "messages": 2
     },
     {
       "id": "C08LC91PR9V",
@@ -284,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 470
+      "messages": 497
     },
     {
       "id": "C0BACQUGQ5R",
