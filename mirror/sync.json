@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-02T03:35:06.521791+00:00",
+  "synced_at": "2026-08-02T08:32:24.833772+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-19T03:35:06.521791+00:00",
-  "window_latest": "2026-08-02T03:35:06.521791+00:00",
+  "window_oldest": "2026-07-19T08:32:24.833772+00:00",
+  "window_latest": "2026-08-02T08:32:24.833772+00:00",
   "channel_count": 59,
-  "message_count": 677,
+  "message_count": 725,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -179,7 +179,7 @@
     {
       "id": "C08PX74S5T4",
       "name": "2_開発_広聴ai_アルゴリズム開発",
-      "messages": 4
+      "messages": 0
     },
     {
       "id": "C08LZN6GYD9",
@@ -224,7 +224,7 @@
     {
       "id": "C0BME5MTWD8",
       "name": "7_デジタル民主主義サミット",
-      "messages": 87
+      "messages": 134
     },
     {
       "id": "C0AQCTYBYRL",
@@ -289,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 497
+      "messages": 502
     },
     {
       "id": "C0BACQUGQ5R",
