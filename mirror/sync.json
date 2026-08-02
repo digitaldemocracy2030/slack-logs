@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-02T08:32:24.833772+00:00",
+  "synced_at": "2026-08-02T13:42:34.443778+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-19T08:32:24.833772+00:00",
-  "window_latest": "2026-08-02T08:32:24.833772+00:00",
+  "window_oldest": "2026-07-19T13:42:34.443778+00:00",
+  "window_latest": "2026-08-02T13:42:34.443778+00:00",
   "channel_count": 59,
-  "message_count": 725,
+  "message_count": 746,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -224,7 +224,7 @@
     {
       "id": "C0BME5MTWD8",
       "name": "7_デジタル民主主義サミット",
-      "messages": 134
+      "messages": 154
     },
     {
       "id": "C0AQCTYBYRL",
@@ -289,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 502
+      "messages": 503
     },
     {
       "id": "C0BACQUGQ5R",
