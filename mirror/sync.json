@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-04T03:20:38.432571+00:00",
+  "synced_at": "2026-08-04T08:48:34.892085+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-21T03:20:38.432571+00:00",
-  "window_latest": "2026-08-04T03:20:38.432571+00:00",
+  "window_oldest": "2026-07-21T08:48:34.892085+00:00",
+  "window_latest": "2026-08-04T08:48:34.892085+00:00",
   "channel_count": 59,
-  "message_count": 753,
+  "message_count": 751,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 54
+      "messages": 49
     },
     {
       "id": "C08NWTURKCP",
@@ -224,7 +224,7 @@
     {
       "id": "C0BME5MTWD8",
       "name": "7_デジタル民主主義サミット",
-      "messages": 174
+      "messages": 176
     },
     {
       "id": "C0AQCTYBYRL",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 4
+      "messages": 6
     },
     {
       "id": "C08LC91PR9V",
@@ -269,7 +269,7 @@
     {
       "id": "C08JQERPAJ2",
       "name": "8_開発_いどばた_github",
-      "messages": 1
+      "messages": 0
     },
     {
       "id": "C08VDRM8012",
