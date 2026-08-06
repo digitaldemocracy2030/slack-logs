@@ -7749,16 +7749,16 @@
       "id": "U08HZGSCT53",
       "name": "yukihozumi",
       "is_bot": false,
-      "updated": 1779714690,
+      "updated": 1786019528,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "e96699",
       "is_email_confirmed": true,
       "real_name": "ほづみゆうき",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "Asia/Taipei",
+      "tz_label": "Taiwan Standard Time",
+      "tz_offset": 28800,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1786006064,
+  "cache_ts": 1786026454,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
