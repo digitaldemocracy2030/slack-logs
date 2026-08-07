@@ -1,8 +1,8 @@
 {
-  "synced_at": "2026-08-07T07:26:23.851789+00:00",
+  "synced_at": "2026-08-07T13:17:58.098470+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-24T07:26:23.851789+00:00",
-  "window_latest": "2026-08-07T07:26:23.851789+00:00",
+  "window_oldest": "2026-07-24T13:17:58.098470+00:00",
+  "window_latest": "2026-08-07T13:17:58.098470+00:00",
   "channel_count": 59,
   "message_count": 656,
   "channels": [
@@ -114,12 +114,12 @@
     {
       "id": "C0A3ZG16TEY",
       "name": "2_コアループ_オンライン広告詐欺対策_市民熟議会議",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08N2NU6D0S",
       "name": "2_コミュニティ運営",
-      "messages": 4
+      "messages": 6
     },
     {
       "id": "C08N2C1RUTE",
@@ -289,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 388
+      "messages": 385
     },
     {
       "id": "C0BACQUGQ5R",
