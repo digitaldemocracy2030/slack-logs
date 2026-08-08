@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-08T07:03:12.811765+00:00",
+  "synced_at": "2026-08-08T13:01:41.907133+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-25T07:03:12.811765+00:00",
-  "window_latest": "2026-08-08T07:03:12.811765+00:00",
+  "window_oldest": "2026-07-25T13:01:41.907133+00:00",
+  "window_latest": "2026-08-08T13:01:41.907133+00:00",
   "channel_count": 59,
-  "message_count": 616,
+  "message_count": 607,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 8
+      "messages": 9
     },
     {
       "id": "C08TGSC167N",
@@ -159,7 +159,7 @@
     {
       "id": "C08SCPMMPL4",
       "name": "2_開発_slackbot",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08FF5MM59C",
@@ -224,7 +224,7 @@
     {
       "id": "C0BME5MTWD8",
       "name": "7_デジタル民主主義サミット",
-      "messages": 182
+      "messages": 183
     },
     {
       "id": "C0AQCTYBYRL",
@@ -289,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 341
+      "messages": 329
     },
     {
       "id": "C0BACQUGQ5R",
