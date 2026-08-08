@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-08T02:03:33.806454+00:00",
+  "synced_at": "2026-08-08T07:03:12.811765+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-25T02:03:33.806454+00:00",
-  "window_latest": "2026-08-08T02:03:33.806454+00:00",
+  "window_oldest": "2026-07-25T07:03:12.811765+00:00",
+  "window_latest": "2026-08-08T07:03:12.811765+00:00",
   "channel_count": 59,
-  "message_count": 614,
+  "message_count": 616,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -74,12 +74,12 @@
     {
       "id": "C08NWTURKCP",
       "name": "2_collab_ミライ構想カレッジin小布施-いどばた",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C09TDEKC5QT",
       "name": "2_いどばたp1_opt2_パブコメミラー",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C09T4CVQA07",
@@ -139,12 +139,12 @@
     {
       "id": "C08NHB3JADC",
       "name": "2_自治体_meetup_運営",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C09N1LZG878",
       "name": "2_開発_cartographer",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08FL5L6GSH",
@@ -289,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 344
+      "messages": 341
     },
     {
       "id": "C0BACQUGQ5R",
@@ -299,7 +299,7 @@
     {
       "id": "C09AMKP77HD",
       "name": "デジ民に人文知を活かしたいゼミ",
-      "messages": 0
+      "messages": 1
     }
   ]
 }
