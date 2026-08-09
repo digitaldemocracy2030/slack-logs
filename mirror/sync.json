@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-09T07:05:50.491778+00:00",
+  "synced_at": "2026-08-09T13:04:23.327584+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-26T07:05:50.491778+00:00",
-  "window_latest": "2026-08-09T07:05:50.491778+00:00",
+  "window_oldest": "2026-07-26T13:04:23.327584+00:00",
+  "window_latest": "2026-08-09T13:04:23.327584+00:00",
   "channel_count": 59,
-  "message_count": 560,
+  "message_count": 574,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -24,7 +24,7 @@
     {
       "id": "C0B33FR3R8D",
       "name": "1_outline_ドキュメント管理",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C090HUWBBNG",
@@ -64,7 +64,7 @@
     {
       "id": "C08SY0ATEAE",
       "name": "2_5月ミートアップ運営",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C09J7A6HKRA",
@@ -189,7 +189,7 @@
     {
       "id": "C0A18R188RZ",
       "name": "3_デジタル資産_権限管理",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08TR6S8Y0Z",
@@ -209,7 +209,7 @@
     {
       "id": "C0ACH0JDQ4W",
       "name": "7_dd_熟議に関する哲学_思想部屋",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08J2MHQFD2",
@@ -219,7 +219,7 @@
     {
       "id": "C0A1NLVSJG4",
       "name": "7_x_投稿ネタ",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C0BME5MTWD8",
@@ -229,7 +229,7 @@
     {
       "id": "C0AQCTYBYRL",
       "name": "7_分散アーキテクチャ",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08UYDUBMG8",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 10
+      "messages": 13
     },
     {
       "id": "C08LC91PR9V",
@@ -264,7 +264,7 @@
     {
       "id": "C08QLT17362",
       "name": "8_人数推移",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08JQERPAJ2",
@@ -274,7 +274,7 @@
     {
       "id": "C08VDRM8012",
       "name": "8_開発_広聴ai_figma",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08JQEUR79U",
@@ -284,12 +284,12 @@
     {
       "id": "C0A6JBJ6EVD",
       "name": "addressing_the_theoretical_gap",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 285
+      "messages": 287
     },
     {
       "id": "C0BACQUGQ5R",
