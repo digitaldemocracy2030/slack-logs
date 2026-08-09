@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-09T02:11:43.598541+00:00",
+  "synced_at": "2026-08-09T07:05:50.491778+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-26T02:11:43.598541+00:00",
-  "window_latest": "2026-08-09T02:11:43.598541+00:00",
+  "window_oldest": "2026-07-26T07:05:50.491778+00:00",
+  "window_latest": "2026-08-09T07:05:50.491778+00:00",
   "channel_count": 59,
-  "message_count": 607,
+  "message_count": 560,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -159,7 +159,7 @@
     {
       "id": "C08SCPMMPL4",
       "name": "2_開発_slackbot",
-      "messages": 2
+      "messages": 3
     },
     {
       "id": "C08FF5MM59C",
@@ -194,7 +194,7 @@
     {
       "id": "C08TR6S8Y0Z",
       "name": "3_ボードメンバーロール",
-      "messages": 3
+      "messages": 0
     },
     {
       "id": "C08T0USVB6G",
@@ -289,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 330
+      "messages": 285
     },
     {
       "id": "C0BACQUGQ5R",
