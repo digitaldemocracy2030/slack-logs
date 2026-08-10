@@ -340,16 +340,16 @@
       "id": "U08FZDRRY8Z",
       "name": "annyotaka",
       "is_bot": false,
-      "updated": 1785734834,
+      "updated": 1786343115,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "8d4b84",
       "is_email_confirmed": true,
       "real_name": "安野貴博",
-      "tz": "America/Los_Angeles",
-      "tz_label": "Pacific Daylight Time",
-      "tz_offset": -25200,
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
+      "tz_offset": 32400,
       "is_admin": true,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1786328459,
+  "cache_ts": 1786348433,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
