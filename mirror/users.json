@@ -19319,16 +19319,16 @@
       "id": "U08KVN5B6HX",
       "name": "kensuzuki",
       "is_bot": false,
-      "updated": 1782896829,
+      "updated": 1786558420,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "235e5b",
       "is_email_confirmed": true,
       "real_name": "Ken Suzuki",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "America/Los_Angeles",
+      "tz_label": "Pacific Daylight Time",
+      "tz_offset": -25200,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1786541062,
+  "cache_ts": 1786561826,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
