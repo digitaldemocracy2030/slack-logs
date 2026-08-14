@@ -13525,16 +13525,16 @@
       "id": "U08JFSYHEP6",
       "name": "yuki.kawabe",
       "is_bot": false,
-      "updated": 1786660104,
+      "updated": 1786687849,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "5a4592",
       "is_email_confirmed": true,
       "real_name": "Ryoma Kawabe Yuki",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "Europe/Amsterdam",
+      "tz_label": "Central European Summer Time",
+      "tz_offset": 7200,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1786674512,
+  "cache_ts": 1786693279,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }

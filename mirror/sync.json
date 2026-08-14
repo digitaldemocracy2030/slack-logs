@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-14T02:28:16.958317+00:00",
+  "synced_at": "2026-08-14T07:40:58.623336+00:00",
   "window_days": 14,
-  "window_oldest": "2026-07-31T02:28:16.958317+00:00",
-  "window_latest": "2026-08-14T02:28:16.958317+00:00",
+  "window_oldest": "2026-07-31T07:40:58.623336+00:00",
+  "window_latest": "2026-08-14T07:40:58.623336+00:00",
   "channel_count": 59,
-  "message_count": 464,
+  "message_count": 453,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -84,12 +84,12 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 0
+      "messages": 4
     },
     {
       "id": "C0AEFK4RNG5",
       "name": "2_コアループ_communication",
-      "messages": 2
+      "messages": 0
     },
     {
       "id": "C0A7WQBNYNP",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 6
+      "messages": 17
     },
     {
       "id": "C08TGSC167N",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08PX74S5T4",
@@ -194,7 +194,7 @@
     {
       "id": "C08TR6S8Y0Z",
       "name": "3_ボードメンバーロール",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08T0USVB6G",
@@ -289,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 177
+      "messages": 151
     },
     {
       "id": "C0BACQUGQ5R",
