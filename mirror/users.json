@@ -25447,16 +25447,16 @@
       "id": "U08N3GBSJGL",
       "name": "takeyuki.u.1253",
       "is_bot": false,
-      "updated": 1786777439,
+      "updated": 1786884233,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "674b1b",
       "is_email_confirmed": true,
       "real_name": "内海赳志",
-      "tz": "America/Los_Angeles",
-      "tz_label": "Pacific Daylight Time",
-      "tz_offset": -25200,
+      "tz": "America/Bogota",
+      "tz_label": "South America Pacific Standard Time",
+      "tz_offset": -18000,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1786863044,
+  "cache_ts": 1786884715,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
