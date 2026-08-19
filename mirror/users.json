@@ -2161,7 +2161,7 @@
       "id": "U08HGALUSH5",
       "name": "github",
       "is_bot": true,
-      "updated": 1742119441,
+      "updated": 1787153801,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
@@ -2180,17 +2180,17 @@
       "profile": {
         "real_name": "GitHub",
         "display_name": "",
-        "avatar_hash": "d9fc95b00493",
+        "avatar_hash": "ff141a3dfc24",
         "real_name_normalized": "GitHub",
         "display_name_normalized": "",
-        "image_24": "https://avatars.slack-edge.com/2025-03-16/8594358595335_d9fc95b0049355f91e27_24.png",
-        "image_32": "https://avatars.slack-edge.com/2025-03-16/8594358595335_d9fc95b0049355f91e27_32.png",
-        "image_48": "https://avatars.slack-edge.com/2025-03-16/8594358595335_d9fc95b0049355f91e27_48.png",
-        "image_72": "https://avatars.slack-edge.com/2025-03-16/8594358595335_d9fc95b0049355f91e27_72.png",
-        "image_192": "https://avatars.slack-edge.com/2025-03-16/8594358595335_d9fc95b0049355f91e27_192.png",
-        "image_512": "https://avatars.slack-edge.com/2025-03-16/8594358595335_d9fc95b0049355f91e27_512.png",
-        "image_1024": "https://avatars.slack-edge.com/2025-03-16/8594358595335_d9fc95b0049355f91e27_1024.png",
-        "image_original": "https://avatars.slack-edge.com/2025-03-16/8594358595335_d9fc95b0049355f91e27_original.png",
+        "image_24": "https://avatars.slack-edge.com/2026-08-19/11856746214645_ff141a3dfc2443dcd03f_24.png",
+        "image_32": "https://avatars.slack-edge.com/2026-08-19/11856746214645_ff141a3dfc2443dcd03f_32.png",
+        "image_48": "https://avatars.slack-edge.com/2026-08-19/11856746214645_ff141a3dfc2443dcd03f_48.png",
+        "image_72": "https://avatars.slack-edge.com/2026-08-19/11856746214645_ff141a3dfc2443dcd03f_72.png",
+        "image_192": "https://avatars.slack-edge.com/2026-08-19/11856746214645_ff141a3dfc2443dcd03f_192.png",
+        "image_512": "https://avatars.slack-edge.com/2026-08-19/11856746214645_ff141a3dfc2443dcd03f_512.png",
+        "image_1024": "https://avatars.slack-edge.com/2026-08-19/11856746214645_ff141a3dfc2443dcd03f_1024.png",
+        "image_original": "https://avatars.slack-edge.com/2026-08-19/11856746214645_ff141a3dfc2443dcd03f_original.png",
         "is_custom_image": true,
         "first_name": "GitHub",
         "last_name": "",
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1787144339,
+  "cache_ts": 1787165015,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
