@@ -43,7 +43,7 @@ jobs:
           set -euo pipefail
           git config user.name 'dd2030-slack-logs-bot'
           git config user.email 'bot@dd2030.invalid'
-          git add mirror
+          git add -A mirror
           if git diff --cached --quiet; then
             echo "no changes to commit"
             exit 0
@@ -51,12 +51,22 @@ jobs:
           # sync.json から要約 (channel_count / message_count) を取って commit message に
           msg=$(jq -r '"slack mirror synced_at=\(.synced_at) channels=\(.channel_count) messages=\(.message_count)"' mirror/sync.json)
           git commit -m "$msg"
+          # push がコケたら rebase しない。mirror/ は毎回フル上書きのスナップショットで、
+          # 相手 run の内容とマージする意味がない（バイナリ .jsonl.gz は rebase 不能で必ず conflict する）。
+          # 代わりに最新 main の上へ自分のスナップショットを載せ直す（ours が勝つ）。
           for attempt in 1 2 3 4 5; do
             if git push; then
               exit 0
             fi
-            echo "push attempt $attempt rejected, pulling --rebase and retrying"
-            git pull --rebase origin main
+            echo "push attempt $attempt rejected; replaying snapshot onto latest main"
+            git fetch origin main
+            git reset --soft FETCH_HEAD
+            git add -A mirror
+            if git diff --cached --quiet; then
+              echo "mirror already up to date on main, nothing to push"
+              exit 0
+            fi
+            git commit -m "$msg"
             sleep $((attempt * 3))
           done
           echo "::error::push failed after 5 attempts"

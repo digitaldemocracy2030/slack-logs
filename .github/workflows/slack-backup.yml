@@ -88,19 +88,27 @@ jobs:
           YM='${{ steps.ym.outputs.ym }}'
           git config user.name 'dd2030-slack-logs-bot'
           git config user.email 'bot@dd2030.invalid'
-          git add raw/slack state
+          git add -A raw/slack state
           if git diff --cached --quiet; then
             echo "no changes to commit"
             exit 0
           fi
           git commit -m "slack backup $YM"
-          # Retry push with rebase to handle concurrent runs racing on main
+          # push がコケたら rebase しない。生成物（gzip）はバイナリで rebase 不能なため、
+          # 最新 main の上へ自分の生成結果を載せ直す（この月の内容は ours が正）。
           for attempt in 1 2 3 4 5; do
             if git push; then
               exit 0
             fi
-            echo "push attempt $attempt rejected, pulling --rebase and retrying"
-            git pull --rebase origin main
+            echo "push attempt $attempt rejected; replaying onto latest main"
+            git fetch origin main
+            git reset --soft FETCH_HEAD
+            git add -A raw/slack state
+            if git diff --cached --quiet; then
+              echo "already up to date on main, nothing to push"
+              exit 0
+            fi
+            git commit -m "slack backup $YM"
             sleep $((attempt * 3))
           done
           echo "::error::push failed after 5 attempts"
