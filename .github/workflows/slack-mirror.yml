@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       window_days:
-        description: 'ミラーする過去日数（デフォルト14）'
+        description: 'ミラーする過去日数（デフォルト75）。canonical(月次・約2ヶ月遅延)と常時オーバーラップさせ隙間を0にする'
         required: false
-        default: '14'
+        default: '75'
 
 concurrency:
   group: slack-mirror
@@ -33,7 +33,7 @@ jobs:
       - name: Run mirror
         env:
           SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
-          WINDOW_DAYS: ${{ inputs.window_days || '14' }}
+          WINDOW_DAYS: ${{ inputs.window_days || '75' }}
           SKIP_CHANNELS: ${{ vars.SKIP_CHANNELS }}
           OUT_DIR: mirror
         run: python scripts/slack_mirror.py

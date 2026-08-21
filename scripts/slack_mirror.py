@@ -28,7 +28,7 @@ def env(key: str, default: str | None = None) -> str:
 
 
 SLACK_TOKEN = env("SLACK_TOKEN")
-WINDOW_DAYS = int(env("WINDOW_DAYS", "14"))
+WINDOW_DAYS = int(env("WINDOW_DAYS", "75"))
 SKIP_CHANNELS = set(filter(None, env("SKIP_CHANNELS", "").split()))
 OUT_DIR = Path(env("OUT_DIR", "mirror"))
 

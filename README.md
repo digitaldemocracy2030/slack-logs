@@ -34,7 +34,7 @@ slack-logs/
 │
 ├── mirror/                               # rolling snapshot（現状用、毎回上書き）
 │   ├── slack/
-│   │   └── <channel_id>.jsonl.gz         # 直近14日分のメッセージ＋スレッド
+│   │   └── <channel_id>.jsonl.gz         # 直近75日分のメッセージ＋スレッド
 │   ├── sync.json                         # 最終同期時刻・window・channel数・message数
 │   └── users.json                        # users.list snapshot（直近）
 │
@@ -68,7 +68,7 @@ slack-logs/
 curl -sL https://raw.githubusercontent.com/digitaldemocracy2030/slack-logs/main/mirror/sync.json | jq '. | del(.channels)'
 ```
 
-#### B. 特定チャンネルの直近14日メッセージを読む
+#### B. 特定チャンネルの直近75日メッセージを読む
 
 ```bash
 # channel_id は mirror/sync.json の .channels[].name から逆引き
@@ -86,7 +86,7 @@ curl -sL https://raw.githubusercontent.com/digitaldemocracy2030/slack-logs/main/
 ```bash
 gh repo clone digitaldemocracy2030/slack-logs
 cd slack-logs
-# 直近14日で 'Discord' に言及している message を全 channel から grep
+# 直近75日で 'Discord' に言及している message を全 channel から grep
 for f in mirror/slack/*.jsonl.gz; do
   zcat "$f" | jq -c "select(.text | test(\"Discord\"; \"i\"))" | \
     while read -r line; do echo "$(basename "$f" .jsonl.gz): $line"; done
@@ -179,6 +179,16 @@ dd2030 workspace 内で動く bot app は **internal customer-built** 扱いに�
 
 両者を一本のパイプラインで兼ねると常にどちらかが妥協する。詳細は [dd2030-wiki: AI から Slack ログを参照するパターン](https://nishio.github.io/dd2030-wiki/topics/ai-slack-access-patterns)。
 
+### 二層の間に隙間を作らない（mirror window の決め方）
+
+canonical は「スレッド完全性のための1ヶ月グレース」ゆえに、cron 実行月の2ヶ月前を取得する（`slack-backup.yml` の既定）。そのため canonical の最新データは常に **約2ヶ月遅れ**で、月内では最大「当月＋前月＝約60日」ぶん後ろにいる。
+
+mirror の window がこの遅れより短いと、**canonical の末尾と mirror の窓の間に、どちらの層にも存在しない盲点（blind gap）が生じる**。実際に window=14日だった頃、2026-07〜08頭がこの盲点に落ちて読めなくなった（canonical 未到達 & mirror 上書き済み）。
+
+これを避けるため mirror window は **canonical の最大遅れ（約63日）＋オーバーラップ余裕 ≒ 75日** に設定している。こうすると mirror の窓が常に「最新の canonical 月」に食い込み、両層が途切れず連続する（隙間0）。canonical の遅延仕様を縮めると late thread reply を取りこぼすため、隙間は **mirror 側を広げて**埋めるのが正しい。
+
+- 前提: 月次 backup が毎月成功していること。もし月次 run が1回丸ごと飛ぶと canonical がさらに1ヶ月遅れ、75日では届かなくなる（失敗時は Issue が自動起票されるので検知はできる）。その場合は当該月を手動 dispatch で埋める。
+
 ### なぜ canonical を `slack-logger-cli-action` で、mirror を Python 自前か
 
 | 観点 | canonical | mirror |
@@ -194,8 +204,8 @@ mirror が将来「分単位の差分取得」「watermark / dedup の本格運�
 - **private channel / DM は非対応**: bot scope が `channels:*` のみ。group:* / im:* を追加すれば取れるが、公開化 (CC-BY) との整合が必要なため意図的に外している
 - **添付ファイル本文は保存しない**: URL のみ保存。Slack 無料プランで添付が失効しても本文の復元はできない
 - **autoJoin の副作用**: bot が新規 public channel に自動 join するので、Slack 上で bot の在席が広範に見える
-- **canonical の 2ヶ月遅延**: 直近2ヶ月は raw/ には現れない。mirror/ または `nishio/oss_weekly_reporter` の data ブランチで補完
-- **mirror の履歴喪失**: 上書きなので、過去の mirror snapshot に遡る手段はない（履歴は raw/ の責務と割り切る）
+- **canonical の 2ヶ月遅延**: 直近2ヶ月は raw/ には現れない。mirror/（直近75日、canonical と常時オーバーラップするよう window を設定）で連続的に補完される。より過去は `nishio/oss_weekly_reporter` の data ブランチも参照
+- **mirror の履歴喪失**: 上書きなので、過去の mirror snapshot に遡る手段はない（履歴は raw/ の責務と割り切る）。window=75日より古い期間は canonical が保全済みである前提
 
 ### 移行ロードマップ
 
