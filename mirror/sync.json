@@ -1,20 +1,20 @@
 {
-  "synced_at": "2026-08-20T18:49:25.644810+00:00",
-  "window_days": 14,
-  "window_oldest": "2026-08-06T18:49:25.644810+00:00",
-  "window_latest": "2026-08-20T18:49:25.644810+00:00",
+  "synced_at": "2026-08-21T01:44:08.034687+00:00",
+  "window_days": 75,
+  "window_oldest": "2026-06-07T01:44:08.034687+00:00",
+  "window_latest": "2026-08-21T01:44:08.034687+00:00",
   "channel_count": 59,
-  "message_count": 170,
+  "message_count": 2291,
   "channels": [
     {
       "id": "C08FF5PGHC6",
       "name": "0_はじめに読んでね",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 3
+      "messages": 24
     },
     {
       "id": "C08TPNKJTU0",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 11
+      "messages": 66
     },
     {
       "id": "C08LZN5LP43",
@@ -39,7 +39,7 @@
     {
       "id": "C08LJ9T5MLY",
       "name": "1_事例紹介_全体",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08MKDH2TS4",
@@ -54,7 +54,7 @@
     {
       "id": "C08HKET1YG3",
       "name": "1_自己紹介",
-      "messages": 0
+      "messages": 2
     },
     {
       "id": "C0A7CT4DY94",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 10
+      "messages": 171
     },
     {
       "id": "C08NWTURKCP",
@@ -84,12 +84,12 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 20
+      "messages": 26
     },
     {
       "id": "C0AEFK4RNG5",
       "name": "2_コアループ_communication",
-      "messages": 0
+      "messages": 37
     },
     {
       "id": "C0A7WQBNYNP",
@@ -99,7 +99,7 @@
     {
       "id": "C0A7WQ6HM2P",
       "name": "2_コアループ_process",
-      "messages": 0
+      "messages": 7
     },
     {
       "id": "C0ADNKDNW80",
@@ -109,17 +109,17 @@
     {
       "id": "C0A7ZNHB421",
       "name": "2_コアループ_tech",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C0A3ZG16TEY",
       "name": "2_コアループ_オンライン広告詐欺対策_市民熟議会議",
-      "messages": 1
+      "messages": 9
     },
     {
       "id": "C08N2NU6D0S",
       "name": "2_コミュニティ運営",
-      "messages": 4
+      "messages": 39
     },
     {
       "id": "C08N2C1RUTE",
@@ -129,7 +129,7 @@
     {
       "id": "C08K4CUB12T",
       "name": "2_広報_pr",
-      "messages": 0
+      "messages": 3
     },
     {
       "id": "C08JMAGJDMY",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 16
+      "messages": 61
     },
     {
       "id": "C08TGSC167N",
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 0
+      "messages": 25
     },
     {
       "id": "C099589UDE1",
@@ -174,12 +174,12 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 4
+      "messages": 10
     },
     {
       "id": "C08PX74S5T4",
       "name": "2_開発_広聴ai_アルゴリズム開発",
-      "messages": 5
+      "messages": 21
     },
     {
       "id": "C08LZN6GYD9",
@@ -194,7 +194,7 @@
     {
       "id": "C08TR6S8Y0Z",
       "name": "3_ボードメンバーロール",
-      "messages": 1
+      "messages": 4
     },
     {
       "id": "C08T0USVB6G",
@@ -224,7 +224,7 @@
     {
       "id": "C0BME5MTWD8",
       "name": "7_デジタル民主主義サミット",
-      "messages": 27
+      "messages": 209
     },
     {
       "id": "C0AQCTYBYRL",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 9
+      "messages": 75
     },
     {
       "id": "C08LC91PR9V",
@@ -259,17 +259,17 @@
     {
       "id": "C08PRQVQWSE",
       "name": "8_devinと人間たちの部屋",
-      "messages": 0
+      "messages": 47
     },
     {
       "id": "C08QLT17362",
       "name": "8_人数推移",
-      "messages": 1
+      "messages": 15
     },
     {
       "id": "C08JQERPAJ2",
       "name": "8_開発_いどばた_github",
-      "messages": 0
+      "messages": 83
     },
     {
       "id": "C08VDRM8012",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 0
+      "messages": 14
     },
     {
       "id": "C0A6JBJ6EVD",
@@ -289,12 +289,12 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 42
+      "messages": 1019
     },
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 0
+      "messages": 305
     },
     {
       "id": "C09AMKP77HD",
