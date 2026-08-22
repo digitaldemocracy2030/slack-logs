@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-22T01:38:02.381340+00:00",
+  "synced_at": "2026-08-22T06:50:36.387327+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-08T01:38:02.381340+00:00",
-  "window_latest": "2026-08-22T01:38:02.381340+00:00",
+  "window_oldest": "2026-06-08T06:50:36.387327+00:00",
+  "window_latest": "2026-08-22T06:50:36.387327+00:00",
   "channel_count": 59,
-  "message_count": 2294,
+  "message_count": 2287,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -99,7 +99,7 @@
     {
       "id": "C0A7WQ6HM2P",
       "name": "2_コアループ_process",
-      "messages": 7
+      "messages": 0
     },
     {
       "id": "C0ADNKDNW80",
