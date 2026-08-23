@@ -2113,16 +2113,16 @@
       "id": "U08HG971CP9",
       "name": "alicelavander",
       "is_bot": false,
-      "updated": 1785189570,
+      "updated": 1787500569,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "aba727",
       "is_email_confirmed": true,
       "real_name": "Arisa Okamura",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "America/Chicago",
+      "tz_label": "Central Daylight Time",
+      "tz_offset": -18000,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1787489592,
+  "cache_ts": 1787510353,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
