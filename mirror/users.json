@@ -21653,16 +21653,16 @@
       "id": "U08LT770V28",
       "name": "m.makino117",
       "is_bot": false,
-      "updated": 1772353316,
+      "updated": 1787619552,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "d1707d",
       "is_email_confirmed": true,
       "real_name": "Masashi",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "America/Los_Angeles",
+      "tz_label": "Pacific Daylight Time",
+      "tz_offset": -25200,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1787597476,
+  "cache_ts": 1787622082,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
