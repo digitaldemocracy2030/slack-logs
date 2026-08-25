@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-25T01:39:55.559327+00:00",
+  "synced_at": "2026-08-25T06:58:19.083503+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-11T01:39:55.559327+00:00",
-  "window_latest": "2026-08-25T01:39:55.559327+00:00",
+  "window_oldest": "2026-06-11T06:58:19.083503+00:00",
+  "window_latest": "2026-08-25T06:58:19.083503+00:00",
   "channel_count": 59,
-  "message_count": 2207,
+  "message_count": 2203,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -84,7 +84,7 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 26
+      "messages": 20
     },
     {
       "id": "C0AEFK4RNG5",
@@ -289,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 1000
+      "messages": 1002
     },
     {
       "id": "C0BACQUGQ5R",
