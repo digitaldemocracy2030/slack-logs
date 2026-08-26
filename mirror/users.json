@@ -27028,16 +27028,16 @@
       "id": "U08NN8A6P9D",
       "name": "foino74",
       "is_bot": false,
-      "updated": 1774313010,
+      "updated": 1787725085,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "a2a5dc",
       "is_email_confirmed": true,
       "real_name": "TAKESHI SHIBASAKI",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "Asia/Bangkok",
+      "tz_label": "Indochina Time",
+      "tz_offset": 25200,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1787708786,
+  "cache_ts": 1787727560,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
