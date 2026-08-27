@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-26T19:55:19.147318+00:00",
+  "synced_at": "2026-08-27T08:48:10.142608+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-12T19:55:19.147318+00:00",
-  "window_latest": "2026-08-26T19:55:19.147318+00:00",
+  "window_oldest": "2026-06-13T08:48:10.142608+00:00",
+  "window_latest": "2026-08-27T08:48:10.142608+00:00",
   "channel_count": 59,
-  "message_count": 2152,
+  "message_count": 2130,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -39,7 +39,7 @@
     {
       "id": "C08LJ9T5MLY",
       "name": "1_事例紹介_全体",
-      "messages": 1
+      "messages": 2
     },
     {
       "id": "C08MKDH2TS4",
@@ -84,7 +84,7 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 20
+      "messages": 27
     },
     {
       "id": "C0AEFK4RNG5",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 61
+      "messages": 58
     },
     {
       "id": "C08TGSC167N",
@@ -259,7 +259,7 @@
     {
       "id": "C08PRQVQWSE",
       "name": "8_devinと人間たちの部屋",
-      "messages": 47
+      "messages": 37
     },
     {
       "id": "C08QLT17362",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 9
+      "messages": 5
     },
     {
       "id": "C0A6JBJ6EVD",
@@ -289,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 1002
+      "messages": 989
     },
     {
       "id": "C0BACQUGQ5R",
