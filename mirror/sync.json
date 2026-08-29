@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-28T22:07:39.279758+00:00",
+  "synced_at": "2026-08-29T06:46:27.884483+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-14T22:07:39.279758+00:00",
-  "window_latest": "2026-08-28T22:07:39.279758+00:00",
+  "window_oldest": "2026-06-15T06:46:27.884483+00:00",
+  "window_latest": "2026-08-29T06:46:27.884483+00:00",
   "channel_count": 59,
-  "message_count": 2105,
+  "message_count": 2094,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -39,7 +39,7 @@
     {
       "id": "C08LJ9T5MLY",
       "name": "1_事例紹介_全体",
-      "messages": 3
+      "messages": 4
     },
     {
       "id": "C08MKDH2TS4",
@@ -84,12 +84,12 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 27
+      "messages": 28
     },
     {
       "id": "C0AEFK4RNG5",
       "name": "2_コアループ_communication",
-      "messages": 37
+      "messages": 30
     },
     {
       "id": "C0A7WQBNYNP",
@@ -294,7 +294,7 @@
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 305
+      "messages": 299
     },
     {
       "id": "C09AMKP77HD",
