@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-29T06:46:27.884483+00:00",
+  "synced_at": "2026-08-29T16:35:31.570344+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-15T06:46:27.884483+00:00",
-  "window_latest": "2026-08-29T06:46:27.884483+00:00",
+  "window_oldest": "2026-06-15T16:35:31.570344+00:00",
+  "window_latest": "2026-08-29T16:35:31.570344+00:00",
   "channel_count": 59,
-  "message_count": 2094,
+  "message_count": 2089,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 135
+      "messages": 129
     },
     {
       "id": "C08NWTURKCP",
@@ -89,7 +89,7 @@
     {
       "id": "C0AEFK4RNG5",
       "name": "2_コアループ_communication",
-      "messages": 30
+      "messages": 29
     },
     {
       "id": "C0A7WQBNYNP",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 58
+      "messages": 65
     },
     {
       "id": "C08TGSC167N",
@@ -294,7 +294,7 @@
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 299
+      "messages": 294
     },
     {
       "id": "C09AMKP77HD",
