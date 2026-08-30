@@ -3727,16 +3727,16 @@
       "id": "U08HNTWTEN9",
       "name": "yuuta1187",
       "is_bot": false,
-      "updated": 1782257691,
+      "updated": 1788087658,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "db3150",
       "is_email_confirmed": true,
       "real_name": "Yuuta Tomooka",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "America/Chicago",
+      "tz_label": "Central Daylight Time",
+      "tz_offset": -18000,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1788066005,
+  "cache_ts": 1788090286,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
