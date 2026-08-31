@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-30T20:53:13.094915+00:00",
+  "synced_at": "2026-08-31T05:05:13.114191+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-16T20:53:13.094915+00:00",
-  "window_latest": "2026-08-30T20:53:13.094915+00:00",
+  "window_oldest": "2026-06-17T05:05:13.114191+00:00",
+  "window_latest": "2026-08-31T05:05:13.114191+00:00",
   "channel_count": 59,
-  "message_count": 2077,
+  "message_count": 2073,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -264,7 +264,7 @@
     {
       "id": "C08QLT17362",
       "name": "8_人数推移",
-      "messages": 12
+      "messages": 11
     },
     {
       "id": "C08JQERPAJ2",
@@ -294,7 +294,7 @@
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 293
+      "messages": 290
     },
     {
       "id": "C09AMKP77HD",
