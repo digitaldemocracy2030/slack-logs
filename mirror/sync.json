@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-09-01T04:42:21.948672+00:00",
+  "synced_at": "2026-09-01T11:29:15.575228+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-18T04:42:21.948672+00:00",
-  "window_latest": "2026-09-01T04:42:21.948672+00:00",
+  "window_oldest": "2026-06-18T11:29:15.575228+00:00",
+  "window_latest": "2026-09-01T11:29:15.575228+00:00",
   "channel_count": 59,
-  "message_count": 2027,
+  "message_count": 2013,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 7
+      "messages": 12
     },
     {
       "id": "C08PX74S5T4",
@@ -289,12 +289,12 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 928
+      "messages": 911
     },
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 290
+      "messages": 288
     },
     {
       "id": "C09AMKP77HD",
