@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-09-02T04:04:15.562307+00:00",
+  "synced_at": "2026-09-02T11:03:28.762786+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-19T04:04:15.562307+00:00",
-  "window_latest": "2026-09-02T04:04:15.562307+00:00",
+  "window_oldest": "2026-06-19T11:03:28.762786+00:00",
+  "window_latest": "2026-09-02T11:03:28.762786+00:00",
   "channel_count": 59,
-  "message_count": 1999,
+  "message_count": 1996,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -39,7 +39,7 @@
     {
       "id": "C08LJ9T5MLY",
       "name": "1_事例紹介_全体",
-      "messages": 4
+      "messages": 5
     },
     {
       "id": "C08MKDH2TS4",
@@ -119,7 +119,7 @@
     {
       "id": "C08N2NU6D0S",
       "name": "2_コミュニティ運営",
-      "messages": 43
+      "messages": 41
     },
     {
       "id": "C08N2C1RUTE",
@@ -289,12 +289,12 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 903
+      "messages": 902
     },
     {
       "id": "C0BACQUGQ5R",
       "name": "delib-20260621-japan",
-      "messages": 288
+      "messages": 287
     },
     {
       "id": "C09AMKP77HD",
