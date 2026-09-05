@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-09-05T14:58:27.399165+00:00",
+  "synced_at": "2026-09-05T20:12:35.090925+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-22T14:58:27.399165+00:00",
-  "window_latest": "2026-09-05T14:58:27.399165+00:00",
+  "window_oldest": "2026-06-22T20:12:35.090925+00:00",
+  "window_latest": "2026-09-05T20:12:35.090925+00:00",
   "channel_count": 59,
-  "message_count": 1673,
+  "message_count": 1668,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 110
+      "messages": 107
     },
     {
       "id": "C08NWTURKCP",
@@ -269,7 +269,7 @@
     {
       "id": "C08JQERPAJ2",
       "name": "8_開発_いどばた_github",
-      "messages": 79
+      "messages": 77
     },
     {
       "id": "C08VDRM8012",
