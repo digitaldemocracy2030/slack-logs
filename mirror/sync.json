@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-09-04T20:38:44.571345+00:00",
+  "synced_at": "2026-09-05T04:02:01.494095+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-21T20:38:44.571345+00:00",
-  "window_latest": "2026-09-04T20:38:44.571345+00:00",
+  "window_oldest": "2026-06-22T04:02:01.494095+00:00",
+  "window_latest": "2026-09-05T04:02:01.494095+00:00",
   "channel_count": 59,
-  "message_count": 1678,
+  "message_count": 1677,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -264,7 +264,7 @@
     {
       "id": "C08QLT17362",
       "name": "8_人数推移",
-      "messages": 10
+      "messages": 9
     },
     {
       "id": "C08JQERPAJ2",
