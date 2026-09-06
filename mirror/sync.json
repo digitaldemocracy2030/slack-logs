@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-09-05T20:12:35.090925+00:00",
+  "synced_at": "2026-09-06T04:09:37.299117+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-22T20:12:35.090925+00:00",
-  "window_latest": "2026-09-05T20:12:35.090925+00:00",
+  "window_oldest": "2026-06-23T04:09:37.299117+00:00",
+  "window_latest": "2026-09-06T04:09:37.299117+00:00",
   "channel_count": 59,
-  "message_count": 1668,
+  "message_count": 1662,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -114,7 +114,7 @@
     {
       "id": "C0A3ZG16TEY",
       "name": "2_コアループ_オンライン広告詐欺対策_市民熟議会議",
-      "messages": 6
+      "messages": 3
     },
     {
       "id": "C08N2NU6D0S",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 12
+      "messages": 17
     },
     {
       "id": "C08PX74S5T4",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 67
+      "messages": 58
     },
     {
       "id": "C08LC91PR9V",
@@ -269,7 +269,7 @@
     {
       "id": "C08JQERPAJ2",
       "name": "8_開発_いどばた_github",
-      "messages": 77
+      "messages": 73
     },
     {
       "id": "C08VDRM8012",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 2
+      "messages": 7
     },
     {
       "id": "C0A6JBJ6EVD",
