@@ -21890,16 +21890,16 @@
       "id": "U08LWBA7CES",
       "name": "shoadachi1101",
       "is_bot": false,
-      "updated": 1788644043,
+      "updated": 1788714407,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "dd8527",
       "is_email_confirmed": true,
       "real_name": "Sho",
-      "tz": "America/Los_Angeles",
-      "tz_label": "Pacific Daylight Time",
-      "tz_offset": -25200,
+      "tz": "America/New_York",
+      "tz_label": "Eastern Daylight Time",
+      "tz_offset": -14400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1788707991,
+  "cache_ts": 1788725885,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
