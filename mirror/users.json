@@ -11970,14 +11970,14 @@
       "id": "U08J8NCNYL8",
       "name": "efu.eiouai",
       "is_bot": false,
-      "updated": 1788813220,
+      "updated": 1788890317,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "5a4592",
       "is_email_confirmed": true,
       "real_name": "Furukawa",
-      "tz": "Europe/Belgrade",
+      "tz": "Europe/Amsterdam",
       "tz_label": "Central European Summer Time",
       "tz_offset": 7200,
       "is_admin": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1788884890,
+  "cache_ts": 1788901268,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
