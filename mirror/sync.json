@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-09-10T04:13:56.970661+00:00",
+  "synced_at": "2026-09-10T11:03:03.851221+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-27T04:13:56.970661+00:00",
-  "window_latest": "2026-09-10T04:13:56.970661+00:00",
+  "window_oldest": "2026-06-27T11:03:03.851221+00:00",
+  "window_latest": "2026-09-10T11:03:03.851221+00:00",
   "channel_count": 59,
-  "message_count": 1899,
+  "message_count": 1896,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 22
+      "messages": 21
     },
     {
       "id": "C08TPNKJTU0",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 55
+      "messages": 53
     },
     {
       "id": "C08TGSC167N",
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 12
+      "messages": 13
     },
     {
       "id": "C099589UDE1",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 260
+      "messages": 259
     },
     {
       "id": "C0A6JBJ6EVD",
