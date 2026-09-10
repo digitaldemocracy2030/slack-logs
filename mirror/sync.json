@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-09-09T20:48:44.494829+00:00",
+  "synced_at": "2026-09-10T04:13:56.970661+00:00",
   "window_days": 75,
-  "window_oldest": "2026-06-26T20:48:44.494829+00:00",
-  "window_latest": "2026-09-09T20:48:44.494829+00:00",
+  "window_oldest": "2026-06-27T04:13:56.970661+00:00",
+  "window_latest": "2026-09-10T04:13:56.970661+00:00",
   "channel_count": 59,
-  "message_count": 1897,
+  "message_count": 1899,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -44,7 +44,7 @@
     {
       "id": "C08MKDH2TS4",
       "name": "1_初心者向けよろず相談部屋",
-      "messages": 0
+      "messages": 2
     },
     {
       "id": "C08QLTSPYKY",
@@ -114,7 +114,7 @@
     {
       "id": "C0A3ZG16TEY",
       "name": "2_コアループ_オンライン広告詐欺対策_市民熟議会議",
-      "messages": 3
+      "messages": 2
     },
     {
       "id": "C08N2NU6D0S",
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 10
+      "messages": 12
     },
     {
       "id": "C099589UDE1",
@@ -264,7 +264,7 @@
     {
       "id": "C08QLT17362",
       "name": "8_人数推移",
-      "messages": 7
+      "messages": 6
     },
     {
       "id": "C08JQERPAJ2",
