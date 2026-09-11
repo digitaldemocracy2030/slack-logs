@@ -45772,16 +45772,16 @@
       "id": "U08T2DVBUSV",
       "name": "inoueyosuke2002",
       "is_bot": false,
-      "updated": 1788769631,
+      "updated": 1789144490,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "8469bc",
       "is_email_confirmed": true,
       "real_name": "Yosuke Inoue",
-      "tz": "Asia/Bangkok",
-      "tz_label": "Indochina Time",
-      "tz_offset": 25200,
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
+      "tz_offset": 32400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1789143497,
+  "cache_ts": 1789159933,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
