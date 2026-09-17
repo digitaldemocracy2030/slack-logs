@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-09-17T11:25:57.610753+00:00",
+  "synced_at": "2026-09-17T16:44:47.504188+00:00",
   "window_days": 75,
-  "window_oldest": "2026-07-04T11:25:57.610753+00:00",
-  "window_latest": "2026-09-17T11:25:57.610753+00:00",
+  "window_oldest": "2026-07-04T16:44:47.504188+00:00",
+  "window_latest": "2026-09-17T16:44:47.504188+00:00",
   "channel_count": 59,
-  "message_count": 1685,
+  "message_count": 1677,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 21
+      "messages": 20
     },
     {
       "id": "C08TPNKJTU0",
@@ -44,7 +44,7 @@
     {
       "id": "C08MKDH2TS4",
       "name": "1_初心者向けよろず相談部屋",
-      "messages": 2
+      "messages": 3
     },
     {
       "id": "C08QLTSPYKY",
@@ -119,7 +119,7 @@
     {
       "id": "C08N2NU6D0S",
       "name": "2_コミュニティ運営",
-      "messages": 33
+      "messages": 24
     },
     {
       "id": "C08N2C1RUTE",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 57
+      "messages": 58
     },
     {
       "id": "C08LC91PR9V",
