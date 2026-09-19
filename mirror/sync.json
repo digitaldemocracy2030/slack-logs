@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-09-19T10:43:04.571551+00:00",
+  "synced_at": "2026-09-19T15:45:02.436889+00:00",
   "window_days": 75,
-  "window_oldest": "2026-07-06T10:43:04.571551+00:00",
-  "window_latest": "2026-09-19T10:43:04.571551+00:00",
+  "window_oldest": "2026-07-06T15:45:02.436889+00:00",
+  "window_latest": "2026-09-19T15:45:02.436889+00:00",
   "channel_count": 59,
-  "message_count": 1663,
+  "message_count": 1646,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 93
+      "messages": 82
     },
     {
       "id": "C08NWTURKCP",
@@ -289,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 805
+      "messages": 799
     },
     {
       "id": "C0BACQUGQ5R",
