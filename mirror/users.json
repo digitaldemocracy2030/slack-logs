@@ -22556,16 +22556,16 @@
       "id": "U08M57KGF6E",
       "name": "takiyori",
       "is_bot": false,
-      "updated": 1767673461,
+      "updated": 1789890125,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "8f4a2b",
       "is_email_confirmed": true,
       "real_name": "Yoriko Takizawa",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "Asia/Kolkata",
+      "tz_label": "India Standard Time",
+      "tz_offset": 19800,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1789878824,
+  "cache_ts": 1789902458,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
