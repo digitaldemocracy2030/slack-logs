@@ -3679,15 +3679,15 @@
       "id": "U08HN9UDJUB",
       "name": "hal",
       "is_bot": false,
-      "updated": 1789769126,
+      "updated": 1789977592,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "e06b56",
       "is_email_confirmed": true,
       "real_name": "Hal Seki",
-      "tz": "Asia/Seoul",
-      "tz_label": "Korea Standard Time",
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
       "tz_offset": 32400,
       "is_admin": false,
       "is_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1789965167,
+  "cache_ts": 1789994058,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
