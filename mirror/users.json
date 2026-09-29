@@ -28503,16 +28503,16 @@
       "id": "U08NZH1RY4S",
       "name": "shumizu418128",
       "is_bot": false,
-      "updated": 1790504908,
+      "updated": 1790685159,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "dd8527",
       "is_email_confirmed": true,
       "real_name": "haruki shimizu",
-      "tz": "Europe/Warsaw",
-      "tz_label": "Central European Summer Time",
-      "tz_offset": 7200,
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
+      "tz_offset": 32400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46949,7 +46949,7 @@
       }
     }
   ],
-  "cache_ts": 1790659398,
+  "cache_ts": 1790685296,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
