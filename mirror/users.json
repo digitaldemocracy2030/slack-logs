@@ -26200,16 +26200,16 @@
       "id": "U08NF0S6D63",
       "name": "keitaro.boc",
       "is_bot": false,
-      "updated": 1786787962,
+      "updated": 1790926361,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "bc3663",
       "is_email_confirmed": true,
       "real_name": "森啓太郎",
-      "tz": "Pacific/Honolulu",
-      "tz_label": "Hawaii-Aleutian Standard Time",
-      "tz_offset": -36000,
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
+      "tz_offset": 32400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46946,7 +46946,7 @@
       }
     }
   ],
-  "cache_ts": 1790918064,
+  "cache_ts": 1790943528,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
