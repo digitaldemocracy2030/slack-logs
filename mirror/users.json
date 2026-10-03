@@ -18487,8 +18487,8 @@
       "is_email_confirmed": true,
       "real_name": "Yusuke Miyashita",
       "tz": "Australia/Canberra",
-      "tz_label": "Australian Eastern Standard Time",
-      "tz_offset": 36000,
+      "tz_label": "Australian Eastern Daylight Time",
+      "tz_offset": 39600,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -26163,8 +26163,8 @@
       "is_email_confirmed": true,
       "real_name": "Rin Ichino",
       "tz": "Australia/Canberra",
-      "tz_label": "Australian Eastern Standard Time",
-      "tz_offset": 36000,
+      "tz_label": "Australian Eastern Daylight Time",
+      "tz_offset": 39600,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46946,7 +46946,7 @@
       }
     }
   ],
-  "cache_ts": 1791026937,
+  "cache_ts": 1791043483,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
