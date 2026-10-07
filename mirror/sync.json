@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-10-07T13:05:36.896287+00:00",
+  "synced_at": "2026-10-07T22:57:57.421317+00:00",
   "window_days": 75,
-  "window_oldest": "2026-07-24T13:05:36.896287+00:00",
-  "window_latest": "2026-10-07T13:05:36.896287+00:00",
+  "window_oldest": "2026-07-24T22:57:57.421317+00:00",
+  "window_latest": "2026-10-07T22:57:57.421317+00:00",
   "channel_count": 59,
-  "message_count": 1377,
+  "message_count": 1372,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -84,7 +84,7 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 33
+      "messages": 35
     },
     {
       "id": "C0AEFK4RNG5",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 60
+      "messages": 62
     },
     {
       "id": "C08PX74S5T4",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 60
+      "messages": 63
     },
     {
       "id": "C08LC91PR9V",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 315
+      "messages": 320
     },
     {
       "id": "C0A6JBJ6EVD",
@@ -289,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 439
+      "messages": 422
     },
     {
       "id": "C0BACQUGQ5R",
