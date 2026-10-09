@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-10-08T23:11:29.440696+00:00",
+  "synced_at": "2026-10-09T05:44:17.111387+00:00",
   "window_days": 75,
-  "window_oldest": "2026-07-25T23:11:29.440696+00:00",
-  "window_latest": "2026-10-08T23:11:29.440696+00:00",
+  "window_oldest": "2026-07-26T05:44:17.111387+00:00",
+  "window_latest": "2026-10-09T05:44:17.111387+00:00",
   "channel_count": 59,
-  "message_count": 1331,
+  "message_count": 1330,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -194,7 +194,7 @@
     {
       "id": "C08TR6S8Y0Z",
       "name": "3_ボードメンバーロール",
-      "messages": 13
+      "messages": 10
     },
     {
       "id": "C08T0USVB6G",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 322
+      "messages": 324
     },
     {
       "id": "C0A6JBJ6EVD",
