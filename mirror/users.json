@@ -28689,16 +28689,16 @@
       "id": "U08NZMPJGLT",
       "name": "hasegayu1002",
       "is_bot": false,
-      "updated": 1745101165,
+      "updated": 1791778483,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "4ec0d6",
       "is_email_confirmed": true,
       "real_name": "Haseyu",
-      "tz": "Asia/Muscat",
-      "tz_label": "Gulf Standard Time",
-      "tz_offset": 14400,
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
+      "tz_offset": 32400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46946,7 +46946,7 @@
       }
     }
   ],
-  "cache_ts": 1791755056,
+  "cache_ts": 1791783259,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
