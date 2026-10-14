@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-10-14T11:35:45.517189+00:00",
+  "synced_at": "2026-10-14T16:58:01.695009+00:00",
   "window_days": 75,
-  "window_oldest": "2026-07-31T11:35:45.517189+00:00",
-  "window_latest": "2026-10-14T11:35:45.517189+00:00",
+  "window_oldest": "2026-07-31T16:58:01.695009+00:00",
+  "window_latest": "2026-10-14T16:58:01.695009+00:00",
   "channel_count": 59,
-  "message_count": 1462,
+  "message_count": 1467,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -54,7 +54,7 @@
     {
       "id": "C08HKET1YG3",
       "name": "1_自己紹介",
-      "messages": 7
+      "messages": 10
     },
     {
       "id": "C0A7CT4DY94",
@@ -84,7 +84,7 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 36
+      "messages": 37
     },
     {
       "id": "C0AEFK4RNG5",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 117
+      "messages": 119
     },
     {
       "id": "C08PX74S5T4",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 73
+      "messages": 74
     },
     {
       "id": "C08LC91PR9V",
@@ -269,7 +269,7 @@
     {
       "id": "C08JQERPAJ2",
       "name": "8_開発_いどばた_github",
-      "messages": 7
+      "messages": 10
     },
     {
       "id": "C08VDRM8012",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 643
+      "messages": 648
     },
     {
       "id": "C0A6JBJ6EVD",
@@ -289,7 +289,7 @@
     {
       "id": "C0B4L1JB8RM",
       "name": "dd_prance_event2026",
-      "messages": 168
+      "messages": 158
     },
     {
       "id": "C0BACQUGQ5R",
