@@ -30150,16 +30150,16 @@
       "id": "U08P9JSBDFB",
       "name": "chi.tomioka",
       "is_bot": false,
-      "updated": 1789361551,
+      "updated": 1792042338,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "b14cbc",
       "is_email_confirmed": true,
       "real_name": "tomioka（とみー）",
-      "tz": "Africa/Monrovia",
-      "tz_label": "Greenwich Mean Time",
-      "tz_offset": 0,
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
+      "tz_offset": 32400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46946,7 +46946,7 @@
       }
     }
   ],
-  "cache_ts": 1792037679,
+  "cache_ts": 1792062887,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
