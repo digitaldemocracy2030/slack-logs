@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-10-17T10:28:05.003203+00:00",
+  "synced_at": "2026-10-17T15:21:53.039948+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-03T10:28:05.003203+00:00",
-  "window_latest": "2026-10-17T10:28:05.003203+00:00",
+  "window_oldest": "2026-08-03T15:21:53.039948+00:00",
+  "window_latest": "2026-10-17T15:21:53.039948+00:00",
   "channel_count": 59,
-  "message_count": 1237,
+  "message_count": 1240,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 15
+      "messages": 16
     },
     {
       "id": "C08TPNKJTU0",
@@ -54,7 +54,7 @@
     {
       "id": "C08HKET1YG3",
       "name": "1_自己紹介",
-      "messages": 13
+      "messages": 12
     },
     {
       "id": "C0A7CT4DY94",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 130
+      "messages": 133
     },
     {
       "id": "C08PX74S5T4",
@@ -224,7 +224,7 @@
     {
       "id": "C0BME5MTWD8",
       "name": "7_デジタル民主主義サミット",
-      "messages": 38
+      "messages": 37
     },
     {
       "id": "C0AQCTYBYRL",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 58
+      "messages": 59
     },
     {
       "id": "C08LC91PR9V",
