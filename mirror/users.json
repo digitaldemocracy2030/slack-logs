@@ -1547,16 +1547,16 @@
       "id": "U08HDJCG23G",
       "name": "nittosha0705",
       "is_bot": false,
-      "updated": 1792404675,
+      "updated": 1792478821,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "e23f99",
       "is_email_confirmed": true,
       "real_name": "shouki tsuda",
-      "tz": "Europe/London",
-      "tz_label": "British Summer Time",
-      "tz_offset": 3600,
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
+      "tz_offset": 32400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46946,7 +46946,7 @@
       }
     }
   ],
-  "cache_ts": 1792470538,
+  "cache_ts": 1792495177,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
