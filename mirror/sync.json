@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-10-21T11:33:52.595401+00:00",
+  "synced_at": "2026-10-21T21:29:37.572945+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-07T11:33:52.595401+00:00",
-  "window_latest": "2026-10-21T11:33:52.595401+00:00",
+  "window_oldest": "2026-08-07T21:29:37.572945+00:00",
+  "window_latest": "2026-10-21T21:29:37.572945+00:00",
   "channel_count": 59,
-  "message_count": 1326,
+  "message_count": 1362,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 788
+      "messages": 824
     },
     {
       "id": "C0A6JBJ6EVD",
