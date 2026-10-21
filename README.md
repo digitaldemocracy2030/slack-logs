@@ -31,6 +31,7 @@ slack-logs/
 │   └── slack/
 │       └── <channel_id>/
 │           └── <YYYY>-<MM>.jsonl.gz      # 1ヶ月分のメッセージ＋スレッド
+│       └── deleted-<旧チャンネル名>/     # ID が取れない削除済みチャンネル（oss_weekly_reporter から復旧）
 │
 ├── mirror/                               # rolling snapshot（現状用、毎回上書き）
 │   ├── slack/
@@ -204,7 +205,7 @@ mirror が将来「分単位の差分取得」「watermark / dedup の本格運�
 - **private channel / DM は非対応**: bot scope が `channels:*` のみ。group:* / im:* を追加すれば取れるが、公開化 (CC-BY) との整合が必要なため意図的に外している
 - **添付ファイル本文は保存しない**: URL のみ保存。Slack 無料プランで添付が失効しても本文の復元はできない
 - **autoJoin の副作用**: bot が新規 public channel に自動 join するので、Slack 上で bot の在席が広範に見える
-- **canonical の 2ヶ月遅延**: 直近2ヶ月は raw/ には現れない。mirror/（直近75日、canonical と常時オーバーラップするよう window を設定）で連続的に補完される。より過去は `nishio/oss_weekly_reporter` の data ブランチも参照
+- **canonical の 2ヶ月遅延**: 直近2ヶ月は raw/ には現れない。mirror/（直近75日、canonical と常時オーバーラップするよう window を設定）で連続的に補完される。2026-03-12 より前の本文は Slack の保持期限で live 取得できず、`nishio/oss_weekly_reporter`（2026-10-21 で更新停止）の週次アーカイブから raw/ へ埋め戻し済み（`scripts/backfill_from_oss_weekly.py`、`scripts/backfill_remaining_from_oss_weekly.py`）
 - **mirror の履歴喪失**: 上書きなので、過去の mirror snapshot に遡る手段はない（履歴は raw/ の責務と割り切る）。window=75日より古い期間は canonical が保全済みである前提
 
 ### 移行ロードマップ
