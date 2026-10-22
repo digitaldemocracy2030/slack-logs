@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-10-21T21:29:37.572945+00:00",
+  "synced_at": "2026-10-22T04:18:21.580463+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-07T21:29:37.572945+00:00",
-  "window_latest": "2026-10-21T21:29:37.572945+00:00",
+  "window_oldest": "2026-08-08T04:18:21.580463+00:00",
+  "window_latest": "2026-10-22T04:18:21.580463+00:00",
   "channel_count": 59,
-  "message_count": 1362,
+  "message_count": 1361,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 59
+      "messages": 58
     },
     {
       "id": "C08LC91PR9V",
