@@ -50,7 +50,7 @@ jobs:
           echo "month=$M"  >> $GITHUB_OUTPUT
           echo "ym=$Y-$M"  >> $GITHUB_OUTPUT
 
-      - name: Move/rename jsonl into raw/slack/<channel_id>/<YYYY>-<MM>.jsonl.gz
+      - name: Place jsonl into raw/slack/<channel_id>/<YYYY>-<MM>.jsonl.gz
         run: |
           set -euo pipefail
           YM='${{ steps.ym.outputs.ym }}'
@@ -59,12 +59,8 @@ jobs:
             echo "::error::slack action did not produce jsonl_dir"
             exit 1
           fi
-          shopt -s nullglob
-          for f in "$SRC"/*.jsonl; do
-            cid=$(basename "$f" .jsonl)
-            mkdir -p "raw/slack/$cid"
-            gzip -c "$f" > "raw/slack/$cid/$YM.jsonl.gz"
-          done
+          # 同じ ts の重複行を除き、既存の本文が減る上書きはしない
+          python3 scripts/place_backup_jsonl.py --jsonl-dir "$SRC" --month "$YM"
 
       - name: Snapshot users.list
         env:
