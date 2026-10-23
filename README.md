@@ -204,6 +204,9 @@ mirror が将来「分単位の差分取得」「watermark / dedup の本格運�
 
 - **private channel / DM は非対応**: bot scope が `channels:*` のみ。group:* / im:* を追加すれば取れるが、公開化 (CC-BY) との整合が必要なため意図的に外している
 - **添付ファイル本文は保存しない**: URL のみ保存。Slack 無料プランで添付が失効しても本文の復元はできない
+- **スレッドの返信は親メッセージの月のファイルに入る**: スレッドを 1 ファイルにそろえるため、月をまたいだ返信も親の月に置く（2026-10 時点で全体の約 1%、親からの遅れは最大 65 日）。ある月の発言を漏れなく見るときは前月のファイルも読む
+- **取り直しで本文を減らさない**: 月次 backup は、既存ファイルにある ts が新しい取得に 1 つでも無いチャンネルを上書きせず `::warning::` を出す（`scripts/place_backup_jsonl.py`）。Slack 無料プランは約 90 日より古い本文を返さないので、古い月を workflow_dispatch で取り直すと本文 0 件になり、埋め戻した本文を消してしまうため
+- **thread_broadcast の重複**: 「チャンネルにも送信」した返信は履歴と返信の両方から返る。backup は同じ ts を 1 行にまとめるが、この変更より前に取得したファイルには 2 行ずつ残っている（2026-10 時点で 341 件）
 - **autoJoin の副作用**: bot が新規 public channel に自動 join するので、Slack 上で bot の在席が広範に見える
 - **canonical の 2ヶ月遅延**: 直近2ヶ月は raw/ には現れない。mirror/（直近75日、canonical と常時オーバーラップするよう window を設定）で連続的に補完される。2026-03-12 より前の本文は Slack の保持期限で live 取得できず、`nishio/oss_weekly_reporter`（2026-10-21 で更新停止）の週次アーカイブから raw/ へ埋め戻し済み（`scripts/backfill_from_oss_weekly.py`、`scripts/backfill_remaining_from_oss_weekly.py`）
 - **mirror の履歴喪失**: 上書きなので、過去の mirror snapshot に遡る手段はない（履歴は raw/ の責務と割り切る）。window=75日より古い期間は canonical が保全済みである前提
