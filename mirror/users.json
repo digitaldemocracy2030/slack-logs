@@ -1267,8 +1267,8 @@
       "is_email_confirmed": true,
       "real_name": "Tatsuya HIRAKI",
       "tz": "Europe/Brussels",
-      "tz_label": "Central European Summer Time",
-      "tz_offset": 7200,
+      "tz_label": "Central European Time",
+      "tz_offset": 3600,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -6359,8 +6359,8 @@
       "is_email_confirmed": true,
       "real_name": "Masato Takino",
       "tz": "Europe/London",
-      "tz_label": "British Summer Time",
-      "tz_offset": 3600,
+      "tz_label": "Greenwich Mean Time",
+      "tz_offset": 0,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -8463,8 +8463,8 @@
       "is_email_confirmed": true,
       "real_name": "Shohei",
       "tz": "Europe/Amsterdam",
-      "tz_label": "Central European Summer Time",
-      "tz_offset": 7200,
+      "tz_label": "Central European Time",
+      "tz_offset": 3600,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -27416,8 +27416,8 @@
       "is_email_confirmed": true,
       "real_name": "Kazushi Kawamura",
       "tz": "Europe/London",
-      "tz_label": "British Summer Time",
-      "tz_offset": 3600,
+      "tz_label": "Greenwich Mean Time",
+      "tz_offset": 0,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46946,7 +46946,7 @@
       }
     }
   ],
-  "cache_ts": 1792874110,
+  "cache_ts": 1792901927,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
