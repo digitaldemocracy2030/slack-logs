@@ -1,8 +1,8 @@
 {
-  "synced_at": "2026-10-26T22:32:10.989889+00:00",
+  "synced_at": "2026-10-27T04:38:44.385568+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-12T22:32:10.989889+00:00",
-  "window_latest": "2026-10-26T22:32:10.989889+00:00",
+  "window_oldest": "2026-08-13T04:38:44.385568+00:00",
+  "window_latest": "2026-10-27T04:38:44.385568+00:00",
   "channel_count": 59,
   "message_count": 1750,
   "channels": [
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 34
+      "messages": 35
     },
     {
       "id": "C08NWTURKCP",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 61
+      "messages": 60
     },
     {
       "id": "C08LC91PR9V",
