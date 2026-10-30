@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-10-29T22:38:58.170112+00:00",
+  "synced_at": "2026-10-30T05:22:59.710201+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-15T22:38:58.170112+00:00",
-  "window_latest": "2026-10-29T22:38:58.170112+00:00",
+  "window_oldest": "2026-08-16T05:22:59.710201+00:00",
+  "window_latest": "2026-10-30T05:22:59.710201+00:00",
   "channel_count": 59,
-  "message_count": 1779,
+  "message_count": 1780,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -84,7 +84,7 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 36
+      "messages": 35
     },
     {
       "id": "C0AEFK4RNG5",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 61
+      "messages": 63
     },
     {
       "id": "C08LC91PR9V",
