@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-10-31T05:07:25.902102+00:00",
+  "synced_at": "2026-10-31T12:02:49.636856+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-17T05:07:25.902102+00:00",
-  "window_latest": "2026-10-31T05:07:25.902102+00:00",
+  "window_oldest": "2026-08-17T12:02:49.636856+00:00",
+  "window_latest": "2026-10-31T12:02:49.636856+00:00",
   "channel_count": 59,
-  "message_count": 1808,
+  "message_count": 1809,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 14
+      "messages": 15
     },
     {
       "id": "C08TPNKJTU0",
@@ -44,7 +44,7 @@
     {
       "id": "C08MKDH2TS4",
       "name": "1_初心者向けよろず相談部屋",
-      "messages": 15
+      "messages": 17
     },
     {
       "id": "C08QLTSPYKY",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 38
+      "messages": 37
     },
     {
       "id": "C08NWTURKCP",
@@ -84,7 +84,7 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 33
+      "messages": 31
     },
     {
       "id": "C0AEFK4RNG5",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 32
+      "messages": 34
     },
     {
       "id": "C08TGSC167N",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 71
+      "messages": 70
     },
     {
       "id": "C08LC91PR9V",
