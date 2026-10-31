@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-10-31T12:02:49.636856+00:00",
+  "synced_at": "2026-10-31T17:10:19.589259+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-17T12:02:49.636856+00:00",
-  "window_latest": "2026-10-31T12:02:49.636856+00:00",
+  "window_oldest": "2026-08-17T17:10:19.589259+00:00",
+  "window_latest": "2026-10-31T17:10:19.589259+00:00",
   "channel_count": 59,
-  "message_count": 1809,
+  "message_count": 1800,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -84,7 +84,7 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 31
+      "messages": 23
     },
     {
       "id": "C0AEFK4RNG5",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 166
+      "messages": 165
     },
     {
       "id": "C08PX74S5T4",
