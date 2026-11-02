@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-11-02T05:35:45.538725+00:00",
+  "synced_at": "2026-11-02T15:26:57.659202+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-19T05:35:45.538725+00:00",
-  "window_latest": "2026-11-02T05:35:45.538725+00:00",
+  "window_oldest": "2026-08-19T15:26:57.659202+00:00",
+  "window_latest": "2026-11-02T15:26:57.659202+00:00",
   "channel_count": 59,
-  "message_count": 1893,
+  "message_count": 1900,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 37
+      "messages": 33
     },
     {
       "id": "C08NWTURKCP",
@@ -84,7 +84,7 @@
     {
       "id": "C09T4CVQA07",
       "name": "2_いどばたボット",
-      "messages": 25
+      "messages": 29
     },
     {
       "id": "C0AEFK4RNG5",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 172
+      "messages": 176
     },
     {
       "id": "C08PX74S5T4",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 1432
+      "messages": 1435
     },
     {
       "id": "C0A6JBJ6EVD",
