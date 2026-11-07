@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-11-07T05:37:25.234639+00:00",
+  "synced_at": "2026-11-07T12:47:46.452387+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-24T05:37:25.234639+00:00",
-  "window_latest": "2026-11-07T05:37:25.234639+00:00",
+  "window_oldest": "2026-08-24T12:47:46.452387+00:00",
+  "window_latest": "2026-11-07T12:47:46.452387+00:00",
   "channel_count": 59,
-  "message_count": 1923,
+  "message_count": 1957,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 13
+      "messages": 15
     },
     {
       "id": "C08TPNKJTU0",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 4
+      "messages": 5
     },
     {
       "id": "C08LZN5LP43",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 25
+      "messages": 24
     },
     {
       "id": "C08NWTURKCP",
@@ -129,7 +129,7 @@
     {
       "id": "C08K4CUB12T",
       "name": "2_広報_pr",
-      "messages": 0
+      "messages": 1
     },
     {
       "id": "C08JMAGJDMY",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 34
+      "messages": 37
     },
     {
       "id": "C08TGSC167N",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 176
+      "messages": 177
     },
     {
       "id": "C08PX74S5T4",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 1453
+      "messages": 1480
     },
     {
       "id": "C0A6JBJ6EVD",
