@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-11-10T14:41:15.863352+00:00",
+  "synced_at": "2026-11-10T23:05:15.985731+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-27T14:41:15.863352+00:00",
-  "window_latest": "2026-11-10T14:41:15.863352+00:00",
+  "window_oldest": "2026-08-27T23:05:15.985731+00:00",
+  "window_latest": "2026-11-10T23:05:15.985731+00:00",
   "channel_count": 59,
-  "message_count": 2019,
+  "message_count": 2032,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -89,7 +89,7 @@
     {
       "id": "C0AEFK4RNG5",
       "name": "2_コアループ_communication",
-      "messages": 23
+      "messages": 24
     },
     {
       "id": "C0A7WQBNYNP",
@@ -174,12 +174,12 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 202
+      "messages": 204
     },
     {
       "id": "C08PX74S5T4",
       "name": "2_開発_広聴ai_アルゴリズム開発",
-      "messages": 5
+      "messages": 10
     },
     {
       "id": "C08LZN6GYD9",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 1511
+      "messages": 1516
     },
     {
       "id": "C0A6JBJ6EVD",
