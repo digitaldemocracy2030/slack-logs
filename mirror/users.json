@@ -36632,16 +36632,16 @@
       "id": "U08Q7GEJXEK",
       "name": "takahiro16takahiro18",
       "is_bot": false,
-      "updated": 1794180790,
+      "updated": 1794263626,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "99a949",
       "is_email_confirmed": true,
       "real_name": "藤井孝弘",
-      "tz": "America/Los_Angeles",
-      "tz_label": "Pacific Standard Time",
-      "tz_offset": -28800,
+      "tz": "Pacific/Honolulu",
+      "tz_label": "Hawaii-Aleutian Standard Time",
+      "tz_offset": -36000,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46931,7 +46931,7 @@
       }
     }
   ],
-  "cache_ts": 1794239736,
+  "cache_ts": 1794274061,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
