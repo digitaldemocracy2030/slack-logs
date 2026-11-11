@@ -1547,7 +1547,7 @@
       "id": "U08HDJCG23G",
       "name": "nittosha0705",
       "is_bot": false,
-      "updated": 1794137745,
+      "updated": 1794398889,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
@@ -18557,16 +18557,16 @@
       "id": "U08KADG4788",
       "name": "tka1utjp",
       "is_bot": false,
-      "updated": 1791901304,
+      "updated": 1794394776,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "dc7dbb",
       "is_email_confirmed": true,
       "real_name": "kai tanaka",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "Asia/Taipei",
+      "tz_label": "Taiwan Standard Time",
+      "tz_offset": 28800,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46931,7 +46931,7 @@
       }
     }
   ],
-  "cache_ts": 1794376107,
+  "cache_ts": 1794405608,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
