@@ -1547,16 +1547,16 @@
       "id": "U08HDJCG23G",
       "name": "nittosha0705",
       "is_bot": false,
-      "updated": 1794398889,
+      "updated": 1794452326,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "e23f99",
       "is_email_confirmed": true,
       "real_name": "shouki tsuda",
-      "tz": "Africa/Harare",
-      "tz_label": "Central Africa Time",
-      "tz_offset": 7200,
+      "tz": "Asia/Tokyo",
+      "tz_label": "Japan Standard Time",
+      "tz_offset": 32400,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -13560,7 +13560,7 @@
       "id": "U08JGS0BS57",
       "name": "nao.yo4da",
       "is_bot": false,
-      "updated": 1773033608,
+      "updated": 1794475019,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
@@ -13597,17 +13597,12 @@
         "title": "Bitcoiner: Keen on technical beauty, not politics.",
         "phone": "",
         "skype": "",
-        "status_text": "Vacationing",
-        "status_text_canonical": "Vacationing",
-        "status_emoji": ":palm_tree:",
-        "status_emoji_display_info": [
-          {
-            "emoji_name": "palm_tree",
-            "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/16.0/apple-large/1f334.png",
-            "unicode": "1f334"
-          }
-        ],
-        "status_expiration": 0
+        "status_text": "",
+        "status_text_canonical": "",
+        "status_emoji": "",
+        "status_emoji_display_info": [],
+        "status_expiration": 0,
+        "huddle_state": "default_unset"
       }
     },
     {
@@ -46931,7 +46926,7 @@
       }
     }
   ],
-  "cache_ts": 1794443276,
+  "cache_ts": 1794495689,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
