@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-11-11T13:56:46.730557+00:00",
+  "synced_at": "2026-11-12T00:24:37.722870+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-28T13:56:46.730557+00:00",
-  "window_latest": "2026-11-11T13:56:46.730557+00:00",
+  "window_oldest": "2026-08-29T00:24:37.722870+00:00",
+  "window_latest": "2026-11-12T00:24:37.722870+00:00",
   "channel_count": 59,
-  "message_count": 2090,
+  "message_count": 2100,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 5
+      "messages": 7
     },
     {
       "id": "C08LZN5LP43",
@@ -89,7 +89,7 @@
     {
       "id": "C0AEFK4RNG5",
       "name": "2_コアループ_communication",
-      "messages": 31
+      "messages": 32
     },
     {
       "id": "C0A7WQBNYNP",
@@ -179,7 +179,7 @@
     {
       "id": "C08PX74S5T4",
       "name": "2_開発_広聴ai_アルゴリズム開発",
-      "messages": 12
+      "messages": 14
     },
     {
       "id": "C08LZN6GYD9",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 70
+      "messages": 75
     },
     {
       "id": "C08LC91PR9V",
