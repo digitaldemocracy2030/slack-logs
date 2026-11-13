@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-11-13T06:10:05.844373+00:00",
+  "synced_at": "2026-11-13T19:28:47.983172+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-30T06:10:05.844373+00:00",
-  "window_latest": "2026-11-13T06:10:05.844373+00:00",
+  "window_oldest": "2026-08-30T19:28:47.983172+00:00",
+  "window_latest": "2026-11-13T19:28:47.983172+00:00",
   "channel_count": 59,
-  "message_count": 2105,
+  "message_count": 2107,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 9
+      "messages": 10
     },
     {
       "id": "C08LZN5LP43",
@@ -54,7 +54,7 @@
     {
       "id": "C08HKET1YG3",
       "name": "1_自己紹介",
-      "messages": 14
+      "messages": 13
     },
     {
       "id": "C0A7CT4DY94",
@@ -119,7 +119,7 @@
     {
       "id": "C08N2NU6D0S",
       "name": "2_コミュニティ運営",
-      "messages": 46
+      "messages": 48
     },
     {
       "id": "C08N2C1RUTE",
