@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-11-14T05:55:40.730179+00:00",
+  "synced_at": "2026-11-14T13:19:37.705089+00:00",
   "window_days": 75,
-  "window_oldest": "2026-08-31T05:55:40.730179+00:00",
-  "window_latest": "2026-11-14T05:55:40.730179+00:00",
+  "window_oldest": "2026-08-31T13:19:37.705089+00:00",
+  "window_latest": "2026-11-14T13:19:37.705089+00:00",
   "channel_count": 59,
-  "message_count": 2125,
+  "message_count": 2132,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -14,7 +14,7 @@
     {
       "id": "C08FL58LK8V",
       "name": "0_全体お知らせ",
-      "messages": 14
+      "messages": 15
     },
     {
       "id": "C08TPNKJTU0",
@@ -29,7 +29,7 @@
     {
       "id": "C090HUWBBNG",
       "name": "1_こんな人募集",
-      "messages": 10
+      "messages": 12
     },
     {
       "id": "C08LZN5LP43",
@@ -149,7 +149,7 @@
     {
       "id": "C08FL5L6GSH",
       "name": "2_開発_polimoney",
-      "messages": 29
+      "messages": 30
     },
     {
       "id": "C08TGSC167N",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 95
+      "messages": 98
     },
     {
       "id": "C08LC91PR9V",
