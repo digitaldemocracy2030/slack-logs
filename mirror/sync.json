@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-11-15T13:47:20.282719+00:00",
+  "synced_at": "2026-11-15T22:41:06.002442+00:00",
   "window_days": 75,
-  "window_oldest": "2026-09-01T13:47:20.282719+00:00",
-  "window_latest": "2026-11-15T13:47:20.282719+00:00",
+  "window_oldest": "2026-09-01T22:41:06.002442+00:00",
+  "window_latest": "2026-11-15T22:41:06.002442+00:00",
   "channel_count": 59,
-  "message_count": 2127,
+  "message_count": 2130,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -164,7 +164,7 @@
     {
       "id": "C08FF5MM59C",
       "name": "2_開発_いどばた",
-      "messages": 4
+      "messages": 5
     },
     {
       "id": "C099589UDE1",
@@ -269,7 +269,7 @@
     {
       "id": "C08JQERPAJ2",
       "name": "8_開発_いどばた_github",
-      "messages": 10
+      "messages": 12
     },
     {
       "id": "C08VDRM8012",
