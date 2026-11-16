@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-11-16T05:56:52.189096+00:00",
+  "synced_at": "2026-11-16T15:27:52.377134+00:00",
   "window_days": 75,
-  "window_oldest": "2026-09-02T05:56:52.189096+00:00",
-  "window_latest": "2026-11-16T05:56:52.189096+00:00",
+  "window_oldest": "2026-09-02T15:27:52.377134+00:00",
+  "window_latest": "2026-11-16T15:27:52.377134+00:00",
   "channel_count": 59,
-  "message_count": 2129,
+  "message_count": 2137,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -39,7 +39,7 @@
     {
       "id": "C08LJ9T5MLY",
       "name": "1_事例紹介_全体",
-      "messages": 3
+      "messages": 2
     },
     {
       "id": "C08MKDH2TS4",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 1559
+      "messages": 1568
     },
     {
       "id": "C0A6JBJ6EVD",

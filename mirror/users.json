@@ -35143,16 +35143,16 @@
       "id": "U08Q43288VB",
       "name": "ryo4ryo4n66",
       "is_bot": false,
-      "updated": 1788261098,
+      "updated": 1794813860,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "827327",
       "is_email_confirmed": true,
       "real_name": "Ryoga Motohashi",
-      "tz": "Asia/Tokyo",
-      "tz_label": "Japan Standard Time",
-      "tz_offset": 32400,
+      "tz": "Europe/Brussels",
+      "tz_label": "Central European Time",
+      "tz_offset": 3600,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46926,7 +46926,7 @@
       }
     }
   ],
-  "cache_ts": 1794808830,
+  "cache_ts": 1794843108,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
