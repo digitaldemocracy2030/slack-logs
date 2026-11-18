@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-11-18T00:50:31.627674+00:00",
+  "synced_at": "2026-11-18T15:28:12.209922+00:00",
   "window_days": 75,
-  "window_oldest": "2026-09-04T00:50:31.627674+00:00",
-  "window_latest": "2026-11-18T00:50:31.627674+00:00",
+  "window_oldest": "2026-09-04T15:28:12.209922+00:00",
+  "window_latest": "2026-11-18T15:28:12.209922+00:00",
   "channel_count": 59,
-  "message_count": 2145,
+  "message_count": 2164,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -119,7 +119,7 @@
     {
       "id": "C08N2NU6D0S",
       "name": "2_コミュニティ運営",
-      "messages": 48
+      "messages": 46
     },
     {
       "id": "C08N2C1RUTE",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 207
+      "messages": 210
     },
     {
       "id": "C08PX74S5T4",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 105
+      "messages": 109
     },
     {
       "id": "C08LC91PR9V",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 1568
+      "messages": 1582
     },
     {
       "id": "C0A6JBJ6EVD",
