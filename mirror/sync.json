@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-11-18T15:28:12.209922+00:00",
+  "synced_at": "2026-11-19T00:09:00.755776+00:00",
   "window_days": 75,
-  "window_oldest": "2026-09-04T15:28:12.209922+00:00",
-  "window_latest": "2026-11-18T15:28:12.209922+00:00",
+  "window_oldest": "2026-09-05T00:09:00.755776+00:00",
+  "window_latest": "2026-11-19T00:09:00.755776+00:00",
   "channel_count": 59,
-  "message_count": 2164,
+  "message_count": 2176,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 210
+      "messages": 222
     },
     {
       "id": "C08PX74S5T4",
