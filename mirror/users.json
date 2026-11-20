@@ -3607,7 +3607,7 @@
         "status_emoji_display_info": [
           {
             "emoji_name": "round_pushpin",
-            "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/16.0/apple-large/1f4cd.png",
+            "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/17.0/apple-large/1f4cd.png",
             "unicode": "1f4cd"
           }
         ],
@@ -13982,7 +13982,7 @@
         "status_emoji_display_info": [
           {
             "emoji_name": "palm_tree",
-            "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/16.0/apple-large/1f334.png",
+            "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/17.0/apple-large/1f334.png",
             "unicode": "1f334"
           }
         ],
@@ -14915,7 +14915,7 @@
         "status_emoji_display_info": [
           {
             "emoji_name": "speech_balloon",
-            "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/16.0/apple-large/1f4ac.png",
+            "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/17.0/apple-large/1f4ac.png",
             "unicode": "1f4ac"
           }
         ],
@@ -32265,7 +32265,7 @@
         "status_emoji_display_info": [
           {
             "emoji_name": "speech_balloon",
-            "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/16.0/apple-large/1f4ac.png",
+            "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/17.0/apple-large/1f4ac.png",
             "unicode": "1f4ac"
           }
         ],
@@ -45984,7 +45984,7 @@
         "status_emoji_display_info": [
           {
             "emoji_name": "blowfish",
-            "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/16.0/apple-large/1f421.png",
+            "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/17.0/apple-large/1f421.png",
             "unicode": "1f421"
           }
         ],
@@ -46926,7 +46926,7 @@
       }
     }
   ],
-  "cache_ts": 1795102694,
+  "cache_ts": 1795134825,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
