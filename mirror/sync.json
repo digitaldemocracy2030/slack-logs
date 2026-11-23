@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-11-22T19:22:31.439744+00:00",
+  "synced_at": "2026-11-23T07:05:55.640493+00:00",
   "window_days": 75,
-  "window_oldest": "2026-09-08T19:22:31.439744+00:00",
-  "window_latest": "2026-11-22T19:22:31.439744+00:00",
+  "window_oldest": "2026-09-09T07:05:55.640493+00:00",
+  "window_latest": "2026-11-23T07:05:55.640493+00:00",
   "channel_count": 59,
-  "message_count": 2057,
+  "message_count": 2037,
   "channels": [
     {
       "id": "C08FF5PGHC6",
@@ -69,7 +69,7 @@
     {
       "id": "C09J7A6HKRA",
       "name": "2_broad-listening-book",
-      "messages": 45
+      "messages": 48
     },
     {
       "id": "C08NWTURKCP",
@@ -174,7 +174,7 @@
     {
       "id": "C08F7JZPD63",
       "name": "2_開発_広聴ai",
-      "messages": 223
+      "messages": 219
     },
     {
       "id": "C08PX74S5T4",
@@ -249,7 +249,7 @@
     {
       "id": "C08FL58M3D3",
       "name": "7_雑談",
-      "messages": 117
+      "messages": 116
     },
     {
       "id": "C08LC91PR9V",
@@ -279,7 +279,7 @@
     {
       "id": "C08JQEUR79U",
       "name": "8_開発_広聴ai_github",
-      "messages": 1419
+      "messages": 1401
     },
     {
       "id": "C0A6JBJ6EVD",
