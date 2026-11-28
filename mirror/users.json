@@ -23470,16 +23470,16 @@
       "id": "U08MC59E3J9",
       "name": "sakotata12",
       "is_bot": false,
-      "updated": 1795185428,
+      "updated": 1795845575,
       "is_app_user": false,
       "team_id": "T08FL58DC9K",
       "deleted": false,
       "color": "8d4b84",
       "is_email_confirmed": true,
       "real_name": "Sota Kobayashi",
-      "tz": "America/New_York",
-      "tz_label": "Eastern Standard Time",
-      "tz_offset": -18000,
+      "tz": "America/Los_Angeles",
+      "tz_label": "Pacific Standard Time",
+      "tz_offset": -28800,
       "is_admin": false,
       "is_owner": false,
       "is_primary_owner": false,
@@ -46926,7 +46926,7 @@
       }
     }
   ],
-  "cache_ts": 1795813369,
+  "cache_ts": 1795850806,
   "response_metadata": {
     "next_cursor": "dXNlcjpVMDhUTTlUVjhCMQ=="
   }
